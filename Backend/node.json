@@ -1,0 +1,4551 @@
+{
+  "College": {
+    "VCE": {
+      "Year": {
+        "Fourth": {
+          "Branch": {
+            "ECE": {
+              "Section": {
+                "A": [
+                  {
+                    "english": "34",
+                    "coading": "50",
+                    "aptitude": "13",
+                    "name": "Akajal",
+                    "logical": "12"
+                  },
+                  {
+                    "english": "34",
+                    "logical": "50",
+                    "aptitude": "12",
+                    "name": "Akalyani",
+                    "coading": "9"
+                  },
+                  {
+                    "name": "Arahul",
+                    "english": "8",
+                    "coading": "31",
+                    "aptitude": "14",
+                    "logical": "21"
+                  },
+                  {
+                    "coading": "39",
+                    "name": "Arakul",
+                    "logical": "21",
+                    "english": "34",
+                    "aptitude": "12"
+                  },
+                  {
+                    "logical": "2",
+                    "coading": "3",
+                    "english": "9",
+                    "name": "Ariku",
+                    "aptitude": "12"
+                  },
+                  {
+                    "english": "4",
+                    "aptitude": "1",
+                    "logical": "2",
+                    "coading": "3",
+                    "name": "Rdora"
+                  },
+                  {
+                    "name": "Rdoran",
+                    "english": "4",
+                    "coading": "31",
+                    "logical": "2",
+                    "aptitude": "12"
+                  },
+                  {
+                    "name": "Rdorani",
+                    "logical": "21",
+                    "english": "41",
+                    "coading": "32",
+                    "aptitude": "13"
+                  },
+                  {
+                    "aptitude": "16",
+                    "name": "Rdoranisha",
+                    "english": "41",
+                    "logical": "22",
+                    "coading": "33"
+                  },
+                  {
+                    "coading": "39",
+                    "english": "49",
+                    "name": "Rdoranishta",
+                    "aptitude": "19",
+                    "logical": "25"
+                  },
+                  {
+                    "logical": "45",
+                    "name": "Vcastiel1",
+                    "aptitude": "34",
+                    "english": "41",
+                    "coading": "34"
+                  },
+                  {
+                    "logical": "43",
+                    "english": "35",
+                    "name": "Vcastiel2",
+                    "coading": "23",
+                    "aptitude": "46"
+                  },
+                  {
+                    "name": "Vcastiel3",
+                    "english": "35",
+                    "logical": "34",
+                    "coading": "23",
+                    "aptitude": "12"
+                  },
+                  {
+                    "aptitude": "23",
+                    "english": "45",
+                    "name": "Vcastiel4",
+                    "coading": "45",
+                    "logical": "12"
+                  },
+                  {
+                    "coading": "23",
+                    "english": "45",
+                    "aptitude": "23",
+                    "name": "Vcastiel5",
+                    "logical": "34"
+                  },
+                  {
+                    "english": "25",
+                    "aptitude": "30",
+                    "logical": "29",
+                    "name": "schiatu",
+                    "coading": "30"
+                  },
+                  {
+                    "name": "schoc",
+                    "english": "25",
+                    "logical": "29",
+                    "aptitude": "21",
+                    "coading": "29"
+                  },
+                  {
+                    "coading": "26",
+                    "aptitude": "21",
+                    "english": "25",
+                    "name": "schocooc",
+                    "logical": "26"
+                  },
+                  {
+                    "name": "schuchu",
+                    "english": "25",
+                    "logical": "29",
+                    "aptitude": "29",
+                    "coading": "29"
+                  },
+                  {
+                    "aptitude": "22",
+                    "name": "ssaathi",
+                    "logical": "22",
+                    "english": "25",
+                    "coading": "21"
+                  },
+                  {
+                    "logical": "26",
+                    "english": "25",
+                    "coading": "27",
+                    "aptitude": "25",
+                    "name": "ssanthi"
+                  }
+                ],
+                "B": [
+                  {
+                    "english": "31",
+                    "coading": "49",
+                    "logical": "4",
+                    "aptitude": "12",
+                    "name": "Aboruto"
+                  },
+                  {
+                    "aptitude": "45",
+                    "name": "Ahokage",
+                    "logical": "4",
+                    "coading": "9",
+                    "english": "19"
+                  },
+                  {
+                    "logical": "34",
+                    "coading": "23",
+                    "aptitude": "41",
+                    "english": "6",
+                    "name": "Aleaf"
+                  },
+                  {
+                    "name": "Anaruto",
+                    "coading": "40",
+                    "aptitude": "11",
+                    "english": "3",
+                    "logical": "45"
+                  },
+                  {
+                    "english": "9",
+                    "aptitude": "11",
+                    "name": "Atsunade",
+                    "logical": "42",
+                    "coading": "4"
+                  },
+                  {
+                    "logical": "41",
+                    "name": "Rjab",
+                    "coading": "5",
+                    "english": "19",
+                    "aptitude": "39"
+                  },
+                  {
+                    "name": "Rjabi",
+                    "english": "1",
+                    "logical": "40",
+                    "coading": "5",
+                    "aptitude": "3"
+                  },
+                  {
+                    "logical": "42",
+                    "coading": "5",
+                    "english": "14",
+                    "name": "Rjabill",
+                    "aptitude": "38"
+                  },
+                  {
+                    "aptitude": "39",
+                    "coading": "50",
+                    "english": "14",
+                    "logical": "41",
+                    "name": "Rjabilli"
+                  },
+                  {
+                    "aptitude": "41",
+                    "english": "41",
+                    "logical": "49",
+                    "name": "Rjha",
+                    "coading": "50"
+                  },
+                  {
+                    "name": "Rmukesh",
+                    "logical": "48",
+                    "coading": "50",
+                    "english": "47",
+                    "aptitude": "41"
+                  },
+                  {
+                    "english": "4",
+                    "coading": "43",
+                    "logical": "42",
+                    "name": "Rmukesha",
+                    "aptitude": "42"
+                  },
+                  {
+                    "english": "15",
+                    "coading": "4",
+                    "name": "Rmukeshari",
+                    "logical": "4",
+                    "aptitude": "4"
+                  },
+                  {
+                    "aptitude": "48",
+                    "name": "Rmukeshni",
+                    "logical": "48",
+                    "english": "40",
+                    "coading": "48"
+                  },
+                  {
+                    "english": "40",
+                    "name": "Rmukeshwari",
+                    "coading": "40",
+                    "logical": "40",
+                    "aptitude": "42"
+                  },
+                  {
+                    "name": "Vborax1",
+                    "coading": "34",
+                    "logical": "34",
+                    "aptitude": "23",
+                    "english": "13"
+                  },
+                  {
+                    "english": "29",
+                    "logical": "25",
+                    "name": "Vborax2",
+                    "aptitude": "34",
+                    "coading": "20"
+                  },
+                  {
+                    "logical": "39",
+                    "aptitude": "37",
+                    "english": "37",
+                    "name": "Vborax3",
+                    "coading": "48"
+                  },
+                  {
+                    "logical": "33",
+                    "coading": "22",
+                    "name": "Vborax4",
+                    "aptitude": "35",
+                    "english": "35"
+                  },
+                  {
+                    "aptitude": "34",
+                    "logical": "24",
+                    "coading": "34",
+                    "name": "Vborax5",
+                    "english": "26"
+                  },
+                  {
+                    "aptitude": "40",
+                    "english": "25",
+                    "logical": "29",
+                    "coading": "30",
+                    "name": "sammmchayyyyy"
+                  },
+                  {
+                    "coading": "30",
+                    "aptitude": "50",
+                    "name": "schayyyyy",
+                    "english": "25",
+                    "logical": "29"
+                  },
+                  {
+                    "aptitude": "40",
+                    "coading": "44",
+                    "name": "suthchayyyyy",
+                    "english": "25",
+                    "logical": "32"
+                  },
+                  {
+                    "english": "25",
+                    "aptitude": "43",
+                    "name": "suthi",
+                    "logical": "32",
+                    "coading": "44"
+                  },
+                  {
+                    "coading": "42",
+                    "logical": "39",
+                    "name": "suthini",
+                    "english": "25",
+                    "aptitude": "42"
+                  },
+                  {
+                    "coading": "42",
+                    "english": "25",
+                    "aptitude": "48",
+                    "name": "suthinini",
+                    "logical": "39"
+                  }
+                ],
+                "c": [
+                  {
+                    "name": "Adeath",
+                    "english": "12",
+                    "logical": "11",
+                    "coading": "50",
+                    "aptitude": "21"
+                  },
+                  {
+                    "english": "35",
+                    "logical": "30",
+                    "aptitude": "16",
+                    "coading": "45",
+                    "name": "Aground"
+                  },
+                  {
+                    "coading": "45",
+                    "logical": "12",
+                    "name": "Anote",
+                    "aptitude": "32",
+                    "english": "9"
+                  },
+                  {
+                    "aptitude": "11",
+                    "english": "33",
+                    "name": "Aoffice",
+                    "logical": "19",
+                    "coading": "25"
+                  },
+                  {
+                    "name": "Apolice",
+                    "logical": "9",
+                    "coading": "5",
+                    "aptitude": "13",
+                    "english": "3"
+                  },
+                  {
+                    "english": "50",
+                    "coading": "23",
+                    "aptitude": "12",
+                    "name": "Apreme",
+                    "logical": "50"
+                  },
+                  {
+                    "name": "Rchary",
+                    "coading": "4",
+                    "aptitude": "43",
+                    "english": "1",
+                    "logical": "41"
+                  },
+                  {
+                    "logical": "4",
+                    "name": "Rcharya",
+                    "aptitude": "8",
+                    "coading": "7",
+                    "english": "9"
+                  },
+                  {
+                    "name": "Vrownena1",
+                    "english": "34",
+                    "logical": "24",
+                    "aptitude": "45",
+                    "coading": "47"
+                  },
+                  {
+                    "english": "23",
+                    "aptitude": "34",
+                    "name": "Vrownena2",
+                    "logical": "45",
+                    "coading": "43"
+                  },
+                  {
+                    "name": "Vrownena3",
+                    "logical": "23",
+                    "aptitude": "33",
+                    "english": "46",
+                    "coading": "43"
+                  },
+                  {
+                    "aptitude": "23",
+                    "english": "44",
+                    "name": "Vrownena4",
+                    "logical": "23",
+                    "coading": "16"
+                  },
+                  {
+                    "aptitude": "22",
+                    "name": "Vrownena5",
+                    "coading": "19",
+                    "logical": "23",
+                    "english": "44"
+                  },
+                  {
+                    "name": "srvyujis",
+                    "logical": "50",
+                    "aptitude": "40",
+                    "english": "25",
+                    "coading": "44"
+                  },
+                  {
+                    "logical": "45",
+                    "aptitude": "40",
+                    "coading": "44",
+                    "name": "sryan",
+                    "english": "22"
+                  },
+                  {
+                    "logical": "45",
+                    "aptitude": "43",
+                    "name": "sryani",
+                    "coading": "44",
+                    "english": "22"
+                  },
+                  {
+                    "name": "srynaa",
+                    "coading": "44",
+                    "english": "22",
+                    "logical": "50",
+                    "aptitude": "43"
+                  },
+                  {
+                    "name": "sssshass",
+                    "english": "25",
+                    "coading": "42",
+                    "aptitude": "40",
+                    "logical": "50"
+                  },
+                  {
+                    "aptitude": "40",
+                    "name": "ssssrvyyaa",
+                    "english": "25",
+                    "coading": "42",
+                    "logical": "39"
+                  },
+                  {
+                    "coading": "42",
+                    "logical": "39",
+                    "english": "25",
+                    "aptitude": "48",
+                    "name": "suthinini"
+                  }
+                ]
+              }
+            },
+            "CSE": {
+              "Section": {
+                "A": [
+                  {
+                    "aptitude": "11",
+                    "logical": "33",
+                    "coading": "3",
+                    "english": "4",
+                    "name": "Adeadly"
+                  },
+                  {
+                    "aptitude": "12",
+                    "coading": "19",
+                    "english": "23",
+                    "logical": "39",
+                    "name": "Aseven"
+                  },
+                  {
+                    "name": "Asins",
+                    "logical": "8",
+                    "english": "7",
+                    "coading": "5",
+                    "aptitude": "45"
+                  },
+                  {
+                    "aptitude": "12",
+                    "coading": "15",
+                    "logical": "18",
+                    "english": "17",
+                    "name": "Asub"
+                  },
+                  {
+                    "name": "Athe",
+                    "english": "43",
+                    "logical": "29",
+                    "coading": "29",
+                    "aptitude": "14"
+                  },
+                  {
+                    "name": "POTLA SRIRAM",
+                    "aptitude": "20",
+                    "logical": "20",
+                    "coading": "30",
+                    "english": "40"
+                  },
+                  {
+                    "logical": "35",
+                    "name": "Vjack1",
+                    "coading": "48",
+                    "aptitude": "23",
+                    "english": "35"
+                  },
+                  {
+                    "logical": "33",
+                    "name": "Vjack2",
+                    "coading": "34",
+                    "aptitude": "45",
+                    "english": "32"
+                  },
+                  {
+                    "english": "38",
+                    "coading": "22",
+                    "aptitude": "45",
+                    "name": "Vjack3",
+                    "logical": "33"
+                  },
+                  {
+                    "aptitude": "46",
+                    "english": "33",
+                    "logical": "32",
+                    "coading": "14",
+                    "name": "Vjack4"
+                  },
+                  {
+                    "coading": "19",
+                    "aptitude": "13",
+                    "name": "Vjack5",
+                    "logical": "32",
+                    "english": "39"
+                  },
+                  {
+                    "english": "22",
+                    "logical": "40",
+                    "aptitude": "44",
+                    "coading": "43",
+                    "name": "sluckie"
+                  },
+                  {
+                    "english": "22",
+                    "coading": "43",
+                    "name": "sluckyy",
+                    "logical": "40",
+                    "aptitude": "50"
+                  },
+                  {
+                    "logical": "50",
+                    "coading": "44",
+                    "aptitude": "43",
+                    "name": "srynaa",
+                    "english": "22"
+                  },
+                  {
+                    "name": "sshankar",
+                    "english": "22",
+                    "coading": "44",
+                    "aptitude": "50",
+                    "logical": "23"
+                  },
+                  {
+                    "name": "ssurenn",
+                    "aptitude": "50",
+                    "english": "22",
+                    "logical": "50",
+                    "coading": "44"
+                  }
+                ],
+                "B": [
+                  {
+                    "aptitude": "21",
+                    "logical": "13",
+                    "english": "50",
+                    "name": "Aas",
+                    "coading": "9"
+                  },
+                  {
+                    "name": "Ai",
+                    "aptitude": "50",
+                    "coading": "50",
+                    "logical": "50",
+                    "english": "50"
+                  },
+                  {
+                    "name": "Areincarnted",
+                    "coading": "21",
+                    "english": "11",
+                    "logical": "31",
+                    "aptitude": "41"
+                  },
+                  {
+                    "english": "47",
+                    "logical": "28",
+                    "coading": "25",
+                    "aptitude": "14",
+                    "name": "Atime"
+                  },
+                  {
+                    "logical": "38",
+                    "coading": "45",
+                    "aptitude": "44",
+                    "name": "Awhen",
+                    "english": "17"
+                  },
+                  {
+                    "aptitude": "46",
+                    "coading": "34",
+                    "name": "Vcrowley1",
+                    "english": "39",
+                    "logical": "46"
+                  },
+                  {
+                    "logical": "20",
+                    "name": "Vcrowley2",
+                    "coading": "34",
+                    "english": "39",
+                    "aptitude": "50"
+                  },
+                  {
+                    "aptitude": "50",
+                    "name": "Vcrowley3",
+                    "coading": "34",
+                    "english": "31",
+                    "logical": "42"
+                  },
+                  {
+                    "aptitude": "12",
+                    "coading": "39",
+                    "logical": "45",
+                    "name": "Vcrowley4",
+                    "english": "12"
+                  },
+                  {
+                    "english": "43",
+                    "logical": "25",
+                    "aptitude": "34",
+                    "coading": "31",
+                    "name": "Vcrowley5"
+                  },
+                  {
+                    "english": "22",
+                    "logical": "40",
+                    "aptitude": "30",
+                    "name": "scookie",
+                    "coading": "30"
+                  },
+                  {
+                    "english": "22",
+                    "name": "scubbyyiee",
+                    "coading": "30",
+                    "logical": "40",
+                    "aptitude": "50"
+                  },
+                  {
+                    "logical": "40",
+                    "aptitude": "44",
+                    "english": "22",
+                    "coading": "43",
+                    "name": "sluckie"
+                  },
+                  {
+                    "coading": "30",
+                    "name": "smashaa",
+                    "logical": "39",
+                    "aptitude": "50",
+                    "english": "22"
+                  },
+                  {
+                    "aptitude": "50",
+                    "name": "smithura",
+                    "coading": "30",
+                    "logical": "22",
+                    "english": "49"
+                  }
+                ],
+                "C": [
+                  {
+                    "name": "Aa",
+                    "aptitude": "11",
+                    "english": "5",
+                    "coading": "13",
+                    "logical": "9"
+                  },
+                  {
+                    "aptitude": "9",
+                    "logical": "29",
+                    "name": "Aangel",
+                    "english": "15",
+                    "coading": "23"
+                  },
+                  {
+                    "aptitude": "12",
+                    "name": "Abeats",
+                    "english": "35",
+                    "logical": "9",
+                    "coading": "25"
+                  },
+                  {
+                    "coading": "13",
+                    "english": "3",
+                    "name": "Akarwan",
+                    "aptitude": "45",
+                    "logical": "1"
+                  },
+                  {
+                    "aptitude": "13",
+                    "coading": "43",
+                    "english": "45",
+                    "logical": "19",
+                    "name": "Aslime"
+                  },
+                  {
+                    "english": "23",
+                    "aptitude": "12",
+                    "name": "Vrufus1",
+                    "logical": "28",
+                    "coading": "19"
+                  },
+                  {
+                    "aptitude": "35",
+                    "logical": "25",
+                    "name": "Vrufus2",
+                    "coading": "22",
+                    "english": "23"
+                  },
+                  {
+                    "logical": "29",
+                    "name": "Vrufus3",
+                    "english": "28",
+                    "coading": "37",
+                    "aptitude": "43"
+                  },
+                  {
+                    "name": "Vrufus4",
+                    "english": "28",
+                    "aptitude": "25",
+                    "logical": "29",
+                    "coading": "42"
+                  },
+                  {
+                    "logical": "29",
+                    "coading": "42",
+                    "english": "35",
+                    "name": "Vrufus5",
+                    "aptitude": "38"
+                  },
+                  {
+                    "aptitude": "41",
+                    "name": "sagar",
+                    "english": "49",
+                    "logical": "44",
+                    "coading": "37"
+                  },
+                  {
+                    "name": "sagarwal",
+                    "logical": "49",
+                    "english": "49",
+                    "aptitude": "49",
+                    "coading": "37"
+                  },
+                  {
+                    "aptitude": "43",
+                    "name": "sjayadeeep",
+                    "coading": "22",
+                    "english": "44",
+                    "logical": "44"
+                  },
+                  {
+                    "english": "49",
+                    "coading": "37",
+                    "logical": "33",
+                    "aptitude": "50",
+                    "name": "skajau"
+                  },
+                  {
+                    "aptitude": "34",
+                    "logical": "33",
+                    "english": "49",
+                    "name": "skajol",
+                    "coading": "37"
+                  },
+                  {
+                    "name": "skajolagg",
+                    "coading": "37",
+                    "logical": "33",
+                    "aptitude": "50",
+                    "english": "49"
+                  }
+                ]
+              }
+            },
+            "EEE": {
+              "Section": {
+                "A": [
+                  {
+                    "name": "Adeer",
+                    "aptitude": "21",
+                    "coading": "2",
+                    "english": "4",
+                    "logical": "49"
+                  },
+                  {
+                    "english": "41",
+                    "aptitude": "2",
+                    "logical": "9",
+                    "name": "Adewani",
+                    "coading": "32"
+                  },
+                  {
+                    "logical": "19",
+                    "aptitude": "23",
+                    "english": "8",
+                    "name": "Ahai",
+                    "coading": "12"
+                  },
+                  {
+                    "coading": "13",
+                    "aptitude": "19",
+                    "name": "Ajawani",
+                    "english": "39",
+                    "logical": "23"
+                  },
+                  {
+                    "logical": "1",
+                    "name": "Aye",
+                    "coading": "1",
+                    "english": "3",
+                    "aptitude": "4"
+                  },
+                  {
+                    "logical": "29",
+                    "english": "35",
+                    "name": "Vcane1",
+                    "aptitude": "38",
+                    "coading": "42"
+                  },
+                  {
+                    "name": "Vcane2",
+                    "english": "35",
+                    "coading": "23",
+                    "logical": "42",
+                    "aptitude": "38"
+                  },
+                  {
+                    "aptitude": "14",
+                    "english": "23",
+                    "logical": "38",
+                    "coading": "45",
+                    "name": "Vcane3"
+                  },
+                  {
+                    "name": "Vcane4",
+                    "coading": "43",
+                    "logical": "45",
+                    "aptitude": "25",
+                    "english": "29"
+                  },
+                  {
+                    "english": "48",
+                    "name": "Vcane5",
+                    "coading": "43",
+                    "aptitude": "23",
+                    "logical": "38"
+                  },
+                  {
+                    "coading": "43",
+                    "name": "skaiki",
+                    "aptitude": "42",
+                    "english": "32",
+                    "logical": "30"
+                  },
+                  {
+                    "logical": "30",
+                    "name": "skainka",
+                    "coading": "43",
+                    "aptitude": "42",
+                    "english": "31"
+                  },
+                  {
+                    "logical": "30",
+                    "coading": "43",
+                    "english": "32",
+                    "name": "skalki",
+                    "aptitude": "49"
+                  },
+                  {
+                    "english": "32",
+                    "aptitude": "49",
+                    "logical": "48",
+                    "coading": "43",
+                    "name": "skalpa"
+                  },
+                  {
+                    "english": "31",
+                    "name": "srahul",
+                    "coading": "22",
+                    "aptitude": "42",
+                    "logical": "30"
+                  },
+                  {
+                    "aptitude": "42",
+                    "name": "srahulina",
+                    "english": "31",
+                    "logical": "22",
+                    "coading": "22"
+                  }
+                ],
+                "B": [
+                  {
+                    "logical": "29",
+                    "name": "Adobara",
+                    "aptitude": "25",
+                    "english": "41",
+                    "coading": "12"
+                  },
+                  {
+                    "name": "Amialagi",
+                    "english": "4",
+                    "coading": "45",
+                    "logical": "23",
+                    "aptitude": "21"
+                  },
+                  {
+                    "name": "Ana",
+                    "coading": "19",
+                    "aptitude": "20",
+                    "logical": "12",
+                    "english": "41"
+                  },
+                  {
+                    "aptitude": "9",
+                    "name": "Ayai",
+                    "english": "42",
+                    "coading": "1",
+                    "logical": "29"
+                  },
+                  {
+                    "logical": "8",
+                    "english": "40",
+                    "aptitude": "29",
+                    "name": "Azindagi",
+                    "coading": "12"
+                  },
+                  {
+                    "english": "48",
+                    "coading": "43",
+                    "name": "Vharry1",
+                    "logical": "38",
+                    "aptitude": "43"
+                  },
+                  {
+                    "logical": "48",
+                    "english": "19",
+                    "name": "Vharry2",
+                    "aptitude": "43",
+                    "coading": "43"
+                  },
+                  {
+                    "name": "Vharry3",
+                    "coading": "26",
+                    "english": "19",
+                    "aptitude": "18",
+                    "logical": "48"
+                  },
+                  {
+                    "english": "34",
+                    "aptitude": "28",
+                    "name": "Vharry4",
+                    "logical": "34",
+                    "coading": "26"
+                  },
+                  {
+                    "english": "36",
+                    "aptitude": "43",
+                    "name": "Vharry5",
+                    "logical": "34",
+                    "coading": "34"
+                  },
+                  {
+                    "logical": "31",
+                    "name": "sajay",
+                    "english": "33",
+                    "aptitude": "22",
+                    "coading": "34"
+                  },
+                  {
+                    "logical": "11",
+                    "aptitude": "24",
+                    "coading": "33",
+                    "name": "schawl",
+                    "english": "32"
+                  },
+                  {
+                    "name": "skalpa",
+                    "logical": "49",
+                    "aptitude": "49",
+                    "coading": "43",
+                    "english": "32"
+                  },
+                  {
+                    "name": "skalpaaa",
+                    "coading": "43",
+                    "english": "32",
+                    "logical": "48",
+                    "aptitude": "49"
+                  },
+                  {
+                    "logical": "49",
+                    "aptitude": "49",
+                    "name": "skalpanachawla",
+                    "coading": "49",
+                    "english": "32"
+                  },
+                  {
+                    "aptitude": "24",
+                    "coading": "33",
+                    "logical": "32",
+                    "name": "srosh",
+                    "english": "32"
+                  },
+                  {
+                    "name": "sroshan",
+                    "english": "32",
+                    "coading": "34",
+                    "aptitude": "20",
+                    "logical": "45"
+                  },
+                  {
+                    "aptitude": "24",
+                    "english": "32",
+                    "name": "sroshni",
+                    "logical": "45",
+                    "coading": "33"
+                  },
+                  {
+                    "logical": "20",
+                    "coading": "33",
+                    "english": "32",
+                    "aptitude": "24",
+                    "name": "sroshwi"
+                  }
+                ],
+                "C": [
+                  {
+                    "aptitude": "10",
+                    "english": "4",
+                    "logical": "19",
+                    "name": "Aajab",
+                    "coading": "9"
+                  },
+                  {
+                    "aptitude": "1",
+                    "coading": "5",
+                    "english": "9",
+                    "logical": "2",
+                    "name": "Agazab"
+                  },
+                  {
+                    "aptitude": "19",
+                    "english": "49",
+                    "coading": "49",
+                    "name": "Akahani",
+                    "logical": "29"
+                  },
+                  {
+                    "english": "2",
+                    "coading": "50",
+                    "logical": "21",
+                    "aptitude": "15",
+                    "name": "Aki"
+                  },
+                  {
+                    "english": "41",
+                    "name": "Aprem",
+                    "logical": "19",
+                    "coading": "1",
+                    "aptitude": "11"
+                  },
+                  {
+                    "english": "36",
+                    "logical": "34",
+                    "coading": "19",
+                    "aptitude": "18",
+                    "name": "Vgarry1"
+                  },
+                  {
+                    "name": "Vgarry2",
+                    "logical": "31",
+                    "aptitude": "25",
+                    "english": "36",
+                    "coading": "19"
+                  },
+                  {
+                    "aptitude": "12",
+                    "coading": "19",
+                    "english": "36",
+                    "logical": "19",
+                    "name": "Vgarry3"
+                  },
+                  {
+                    "english": "16",
+                    "logical": "19",
+                    "name": "Vgarry4",
+                    "coading": "19",
+                    "aptitude": "12"
+                  },
+                  {
+                    "name": "Vgarry5",
+                    "aptitude": "16",
+                    "english": "16",
+                    "logical": "10",
+                    "coading": "19"
+                  },
+                  {
+                    "english": "33",
+                    "coading": "34",
+                    "name": "sajay",
+                    "logical": "31",
+                    "aptitude": "22"
+                  },
+                  {
+                    "aptitude": "22",
+                    "coading": "34",
+                    "english": "44",
+                    "name": "sjay",
+                    "logical": "41"
+                  },
+                  {
+                    "logical": "44",
+                    "english": "44",
+                    "name": "sjaya",
+                    "coading": "22",
+                    "aptitude": "22"
+                  },
+                  {
+                    "coading": "22",
+                    "name": "sjayadeeep",
+                    "aptitude": "43",
+                    "logical": "44",
+                    "english": "44"
+                  },
+                  {
+                    "english": "44",
+                    "coading": "34",
+                    "logical": "33",
+                    "aptitude": "22",
+                    "name": "sjayini"
+                  }
+                ]
+              }
+            }
+          }
+        },
+        "Third": {
+          "Branch": {
+            "ECE": {
+              "Section": {
+                "A": [
+                  {
+                    "english": "21",
+                    "aptitude": "30",
+                    "name": "AAnvesh",
+                    "logical": "25",
+                    "coading": "14"
+                  },
+                  {
+                    "aptitude": "10",
+                    "english": "41",
+                    "name": "Akaushik",
+                    "logical": "45",
+                    "coading": "43"
+                  },
+                  {
+                    "name": "Ashiva",
+                    "logical": "14",
+                    "english": "21",
+                    "aptitude": "12",
+                    "coading": "17"
+                  },
+                  {
+                    "logical": "27",
+                    "aptitude": "37",
+                    "english": "31",
+                    "coading": "18",
+                    "name": "Asravya"
+                  },
+                  {
+                    "english": "27",
+                    "logical": "17",
+                    "name": "Avineeth",
+                    "aptitude": "32",
+                    "coading": "12"
+                  },
+                  {
+                    "logical": "34",
+                    "coading": "34",
+                    "english": "21",
+                    "aptitude": "43",
+                    "name": "Ralekya"
+                  },
+                  {
+                    "logical": "4",
+                    "coading": "10",
+                    "english": "15",
+                    "aptitude": "3",
+                    "name": "Rbunty"
+                  },
+                  {
+                    "name": "Rchintu",
+                    "logical": "15",
+                    "coading": "30",
+                    "aptitude": "20",
+                    "english": "18"
+                  },
+                  {
+                    "logical": "45",
+                    "coading": "21",
+                    "name": "Rkarthik",
+                    "english": "43",
+                    "aptitude": "32"
+                  },
+                  {
+                    "coading": "50",
+                    "aptitude": "30",
+                    "logical": "40",
+                    "english": "12",
+                    "name": "Rsravya"
+                  },
+                  {
+                    "name": "Vabhi",
+                    "coading": "30",
+                    "logical": "20",
+                    "english": "40",
+                    "aptitude": "20"
+                  },
+                  {
+                    "aptitude": "29",
+                    "coading": "30",
+                    "english": "44",
+                    "name": "Vabhinav",
+                    "logical": "40"
+                  },
+                  {
+                    "coading": "34",
+                    "aptitude": "28",
+                    "name": "Vafzal",
+                    "english": "23",
+                    "logical": "26"
+                  },
+                  {
+                    "logical": "43",
+                    "coading": "34",
+                    "name": "Vsmart",
+                    "english": "23",
+                    "aptitude": "24"
+                  },
+                  {
+                    "english": "44",
+                    "coading": "12",
+                    "name": "Vsmart1",
+                    "logical": "34",
+                    "aptitude": "23"
+                  },
+                  {
+                    "aptitude": "34",
+                    "logical": "43",
+                    "english": "39",
+                    "coading": "37",
+                    "name": "savasyu"
+                  },
+                  {
+                    "logical": "40",
+                    "name": "sazad",
+                    "english": "30",
+                    "coading": "30",
+                    "aptitude": "30"
+                  },
+                  {
+                    "coading": "50",
+                    "english": "5",
+                    "logical": "50",
+                    "name": "slolly",
+                    "aptitude": "50"
+                  },
+                  {
+                    "name": "smoni",
+                    "aptitude": "27",
+                    "english": "25",
+                    "logical": "19",
+                    "coading": "9"
+                  },
+                  {
+                    "aptitude": "27",
+                    "name": "smonitha",
+                    "coading": "9",
+                    "logical": "19",
+                    "english": "25"
+                  },
+                  {
+                    "logical": "25",
+                    "aptitude": "25",
+                    "name": "sshiva",
+                    "english": "25",
+                    "coading": "25"
+                  },
+                  {
+                    "name": "ssravya",
+                    "english": "10",
+                    "logical": "10",
+                    "coading": "10",
+                    "aptitude": "10"
+                  },
+                  {
+                    "aptitude": "15",
+                    "name": "ssrenu",
+                    "logical": "15",
+                    "coading": "50",
+                    "english": "5"
+                  },
+                  {
+                    "english": "25",
+                    "logical": "15",
+                    "name": "ssrevanth",
+                    "aptitude": "20",
+                    "coading": "25"
+                  },
+                  {
+                    "english": "39",
+                    "name": "ssruthi",
+                    "logical": "41",
+                    "coading": "36",
+                    "aptitude": "32"
+                  },
+                  {
+                    "coading": "45",
+                    "aptitude": "45",
+                    "name": "sunmila",
+                    "logical": "45",
+                    "english": "35"
+                  }
+                ],
+                "B": [
+                  {
+                    "aptitude": "21",
+                    "name": "Aaravind",
+                    "english": "22",
+                    "coading": "34",
+                    "logical": "23"
+                  },
+                  {
+                    "aptitude": "23",
+                    "logical": "31",
+                    "english": "22",
+                    "coading": "19",
+                    "name": "Adhivya"
+                  },
+                  {
+                    "name": "Anaimisha",
+                    "coading": "11",
+                    "logical": "39",
+                    "aptitude": "32",
+                    "english": "34"
+                  },
+                  {
+                    "aptitude": "48",
+                    "name": "Anikhil",
+                    "english": "9",
+                    "coading": "12",
+                    "logical": "32"
+                  },
+                  {
+                    "logical": "12",
+                    "aptitude": "50",
+                    "english": "28",
+                    "name": "Asindhu",
+                    "coading": "41"
+                  },
+                  {
+                    "name": "Rbeck",
+                    "logical": "47",
+                    "aptitude": "38",
+                    "coading": "23",
+                    "english": "19"
+                  },
+                  {
+                    "english": "43",
+                    "name": "Rguinevere",
+                    "logical": "37",
+                    "aptitude": "28",
+                    "coading": "44"
+                  },
+                  {
+                    "aptitude": "32",
+                    "name": "Rjerry",
+                    "coading": "19",
+                    "english": "25",
+                    "logical": "23"
+                  },
+                  {
+                    "logical": "15",
+                    "name": "Rkb",
+                    "aptitude": "29",
+                    "english": "43",
+                    "coading": "34"
+                  },
+                  {
+                    "english": "16",
+                    "name": "Rtom",
+                    "aptitude": "32",
+                    "coading": "12",
+                    "logical": "23"
+                  },
+                  {
+                    "aptitude": "22",
+                    "logical": "33",
+                    "coading": "24",
+                    "english": "50",
+                    "name": "Vair1"
+                  },
+                  {
+                    "logical": "34",
+                    "coading": "28",
+                    "name": "Vair2",
+                    "aptitude": "23",
+                    "english": "28"
+                  },
+                  {
+                    "logical": "14",
+                    "aptitude": "24",
+                    "name": "Vair3",
+                    "english": "34",
+                    "coading": "31"
+                  },
+                  {
+                    "logical": "18",
+                    "name": "Vair4",
+                    "aptitude": "22",
+                    "coading": "23",
+                    "english": "34"
+                  },
+                  {
+                    "aptitude": "32",
+                    "english": "30",
+                    "logical": "16",
+                    "name": "Vair5",
+                    "coading": "20"
+                  },
+                  {
+                    "aptitude": "44",
+                    "logical": "50",
+                    "name": "ssweety",
+                    "english": "35",
+                    "coading": "34"
+                  },
+                  {
+                    "name": "sswetha",
+                    "english": "25",
+                    "aptitude": "42",
+                    "coading": "44",
+                    "logical": "50"
+                  }
+                ],
+                "C": [
+                  {
+                    "english": "42",
+                    "name": "Adinesh",
+                    "logical": "41",
+                    "aptitude": "43",
+                    "coading": "47"
+                  },
+                  {
+                    "name": "Ahar",
+                    "english": "4",
+                    "logical": "21",
+                    "aptitude": "12",
+                    "coading": "7"
+                  },
+                  {
+                    "aptitude": "31",
+                    "name": "Apratusha",
+                    "english": "18",
+                    "logical": "39",
+                    "coading": "12"
+                  },
+                  {
+                    "logical": "6",
+                    "aptitude": "12",
+                    "name": "Apuppy",
+                    "english": "12",
+                    "coading": "9"
+                  },
+                  {
+                    "aptitude": "32",
+                    "coading": "19",
+                    "english": "7",
+                    "name": "Aswetha",
+                    "logical": "12"
+                  },
+                  {
+                    "coading": "21",
+                    "aptitude": "32",
+                    "logical": "38",
+                    "english": "27",
+                    "name": "Atharun"
+                  },
+                  {
+                    "logical": "41",
+                    "coading": "24",
+                    "aptitude": "38",
+                    "english": "12",
+                    "name": "RGirija"
+                  },
+                  {
+                    "aptitude": "49",
+                    "coading": "47",
+                    "english": "41",
+                    "name": "Rcheya",
+                    "logical": "50"
+                  },
+                  {
+                    "logical": "16",
+                    "name": "Rdhebba",
+                    "aptitude": "12",
+                    "coading": "31",
+                    "english": "13"
+                  },
+                  {
+                    "name": "Rramesh",
+                    "coading": "2",
+                    "logical": "41",
+                    "aptitude": "32",
+                    "english": "3"
+                  },
+                  {
+                    "aptitude": "24",
+                    "english": "33",
+                    "coading": "28",
+                    "logical": "13",
+                    "name": "Vbhargav1"
+                  },
+                  {
+                    "aptitude": "28",
+                    "english": "33",
+                    "name": "Vbhargav2",
+                    "coading": "25",
+                    "logical": "35"
+                  },
+                  {
+                    "name": "Vbhargav3",
+                    "coading": "13",
+                    "aptitude": "12",
+                    "english": "26",
+                    "logical": "23"
+                  },
+                  {
+                    "coading": "18",
+                    "aptitude": "17",
+                    "name": "Vbhargav4",
+                    "english": "26",
+                    "logical": "12"
+                  },
+                  {
+                    "aptitude": "29",
+                    "name": "Vbhargav5",
+                    "english": "24",
+                    "logical": "17",
+                    "coading": "14"
+                  },
+                  {
+                    "aptitude": "30",
+                    "name": "sshermila",
+                    "logical": "40",
+                    "coading": "45",
+                    "english": "50"
+                  },
+                  {
+                    "coading": "45",
+                    "english": "45",
+                    "logical": "45",
+                    "name": "sssssss",
+                    "aptitude": "45"
+                  },
+                  {
+                    "coading": "41",
+                    "logical": "44",
+                    "aptitude": "22",
+                    "name": "ssushant",
+                    "english": "22"
+                  },
+                  {
+                    "english": "27",
+                    "aptitude": "24",
+                    "coading": "43",
+                    "logical": "47",
+                    "name": "ssussi"
+                  },
+                  {
+                    "english": "40",
+                    "logical": "40",
+                    "aptitude": "45",
+                    "name": "ssvhijn",
+                    "coading": "45"
+                  }
+                ]
+              }
+            },
+            "CSE": {
+              "Section": {
+                "A": [
+                  {
+                    "coading": "22",
+                    "english": "19",
+                    "aptitude": "22",
+                    "name": "Aani",
+                    "logical": "33"
+                  },
+                  {
+                    "logical": "32",
+                    "coading": "27",
+                    "aptitude": "23",
+                    "english": "17",
+                    "name": "Aavi"
+                  },
+                  {
+                    "english": "11",
+                    "aptitude": "17",
+                    "logical": "19",
+                    "coading": "12",
+                    "name": "Ahanna"
+                  },
+                  {
+                    "coading": "1",
+                    "name": "Ajensen",
+                    "english": "17",
+                    "logical": "2",
+                    "aptitude": "5"
+                  },
+                  {
+                    "name": "Amark",
+                    "logical": "11",
+                    "aptitude": "12",
+                    "coading": "13",
+                    "english": "19"
+                  },
+                  {
+                    "coading": "41",
+                    "logical": "31",
+                    "name": "Rakhila",
+                    "english": "41",
+                    "aptitude": "21"
+                  },
+                  {
+                    "name": "Ramulya",
+                    "logical": "12",
+                    "english": "23",
+                    "aptitude": "22",
+                    "coading": "45"
+                  },
+                  {
+                    "name": "Rdevaki",
+                    "coading": "46",
+                    "aptitude": "28",
+                    "logical": "31",
+                    "english": "42"
+                  },
+                  {
+                    "logical": "31",
+                    "coading": "41",
+                    "name": "Rniharika",
+                    "aptitude": "21",
+                    "english": "41"
+                  },
+                  {
+                    "aptitude": "21",
+                    "name": "Rsadhana",
+                    "coading": "41",
+                    "english": "41",
+                    "logical": "31"
+                  },
+                  {
+                    "aptitude": "29",
+                    "logical": "18",
+                    "name": "Vkittu1",
+                    "english": "31",
+                    "coading": "18"
+                  },
+                  {
+                    "coading": "33",
+                    "aptitude": "44",
+                    "logical": "33",
+                    "name": "Vkittu2",
+                    "english": "12"
+                  },
+                  {
+                    "english": "17",
+                    "logical": "30",
+                    "aptitude": "42",
+                    "name": "Vkittu3",
+                    "coading": "34"
+                  },
+                  {
+                    "english": "26",
+                    "name": "Vkittu4",
+                    "logical": "33",
+                    "coading": "23",
+                    "aptitude": "33"
+                  },
+                  {
+                    "aptitude": "25",
+                    "english": "43",
+                    "coading": "27",
+                    "name": "Vkittu5",
+                    "logical": "33"
+                  },
+                  {
+                    "english": "5",
+                    "name": "smanesh",
+                    "logical": "5",
+                    "coading": "3",
+                    "aptitude": "41"
+                  },
+                  {
+                    "coading": "36",
+                    "aptitude": "45",
+                    "english": "50",
+                    "logical": "50",
+                    "name": "smanesha"
+                  },
+                  {
+                    "english": "50",
+                    "name": "smani",
+                    "logical": "50",
+                    "coading": "32",
+                    "aptitude": "42"
+                  },
+                  {
+                    "coading": "32",
+                    "name": "smimniii",
+                    "aptitude": "34",
+                    "english": "34",
+                    "logical": "45"
+                  },
+                  {
+                    "name": "ssila",
+                    "logical": "34",
+                    "coading": "36",
+                    "aptitude": "27",
+                    "english": "18"
+                  }
+                ],
+                "B": [
+                  {
+                    "name": "Ajeff",
+                    "coading": "9",
+                    "english": "12",
+                    "aptitude": "22",
+                    "logical": "19"
+                  },
+                  {
+                    "name": "Ajenni",
+                    "coading": "12",
+                    "aptitude": "45",
+                    "logical": "45",
+                    "english": "19"
+                  },
+                  {
+                    "aptitude": "23",
+                    "name": "Ajess",
+                    "english": "19",
+                    "coading": "34",
+                    "logical": "13"
+                  },
+                  {
+                    "aptitude": "2",
+                    "english": "19",
+                    "logical": "12",
+                    "name": "Ajoe",
+                    "coading": "8"
+                  },
+                  {
+                    "logical": "40",
+                    "coading": "32",
+                    "aptitude": "41",
+                    "name": "Animmi",
+                    "english": "29"
+                  },
+                  {
+                    "aptitude": "25",
+                    "name": "RManiraj",
+                    "coading": "45",
+                    "english": "45",
+                    "logical": "35"
+                  },
+                  {
+                    "aptitude": "25",
+                    "coading": "45",
+                    "logical": "35",
+                    "english": "45",
+                    "name": "Rpranay"
+                  },
+                  {
+                    "logical": "35",
+                    "english": "45",
+                    "name": "Rsahithi",
+                    "coading": "45",
+                    "aptitude": "25"
+                  },
+                  {
+                    "name": "Rsaitharun",
+                    "english": "45",
+                    "coading": "45",
+                    "aptitude": "25",
+                    "logical": "35"
+                  },
+                  {
+                    "name": "Rvandhana",
+                    "coading": "45",
+                    "logical": "35",
+                    "english": "45",
+                    "aptitude": "25"
+                  },
+                  {
+                    "english": "48",
+                    "aptitude": "34",
+                    "logical": "34",
+                    "coading": "46",
+                    "name": "Vammu1"
+                  },
+                  {
+                    "english": "40",
+                    "coading": "34",
+                    "logical": "43",
+                    "aptitude": "40",
+                    "name": "Vamulya2"
+                  },
+                  {
+                    "logical": "23",
+                    "aptitude": "33",
+                    "coading": "34",
+                    "english": "45",
+                    "name": "Vamulya3"
+                  },
+                  {
+                    "aptitude": "45",
+                    "logical": "23",
+                    "english": "23",
+                    "coading": "34",
+                    "name": "Vamulya4"
+                  },
+                  {
+                    "coading": "30",
+                    "name": "Vamulya5",
+                    "logical": "23",
+                    "aptitude": "36",
+                    "english": "26"
+                  },
+                  {
+                    "coading": "20",
+                    "english": "20",
+                    "name": "sanvesh",
+                    "aptitude": "20",
+                    "logical": "20"
+                  },
+                  {
+                    "name": "savanthi",
+                    "logical": "43",
+                    "aptitude": "34",
+                    "english": "39",
+                    "coading": "37"
+                  },
+                  {
+                    "english": "37",
+                    "aptitude": "33",
+                    "name": "sazadhi",
+                    "coading": "36",
+                    "logical": "44"
+                  },
+                  {
+                    "name": "sllalitha",
+                    "english": "5",
+                    "logical": "50",
+                    "coading": "50",
+                    "aptitude": "50"
+                  },
+                  {
+                    "english": "25",
+                    "name": "smitha",
+                    "aptitude": "25",
+                    "coading": "19",
+                    "logical": "19"
+                  },
+                  {
+                    "coading": "9",
+                    "aptitude": "27",
+                    "name": "smonaina",
+                    "english": "25",
+                    "logical": "19"
+                  },
+                  {
+                    "aptitude": "24",
+                    "name": "ssrekha",
+                    "logical": "19",
+                    "coading": "25",
+                    "english": "25"
+                  },
+                  {
+                    "name": "ssrenuika",
+                    "aptitude": "19",
+                    "coading": "50",
+                    "english": "5",
+                    "logical": "15"
+                  },
+                  {
+                    "logical": "15",
+                    "aptitude": "15",
+                    "english": "15",
+                    "coading": "15",
+                    "name": "ssreya"
+                  },
+                  {
+                    "logical": "41",
+                    "name": "ssruthi",
+                    "english": "39",
+                    "aptitude": "32",
+                    "coading": "36"
+                  },
+                  {
+                    "aptitude": "40",
+                    "name": "ssunitha",
+                    "logical": "40",
+                    "coading": "46",
+                    "english": "38"
+                  }
+                ],
+                "C": [
+                  {
+                    "english": "50",
+                    "aptitude": "49",
+                    "logical": "50",
+                    "name": "Aholt",
+                    "coading": "49"
+                  },
+                  {
+                    "english": "45",
+                    "coading": "41",
+                    "name": "Ajefferds",
+                    "logical": "49",
+                    "aptitude": "39"
+                  },
+                  {
+                    "english": "31",
+                    "name": "Analini",
+                    "coading": "37",
+                    "logical": "41",
+                    "aptitude": "40"
+                  },
+                  {
+                    "name": "Anikki",
+                    "english": "21",
+                    "logical": "32",
+                    "aptitude": "44",
+                    "coading": "27"
+                  },
+                  {
+                    "english": "21",
+                    "aptitude": "24",
+                    "name": "Aperelta",
+                    "logical": "23",
+                    "coading": "31"
+                  },
+                  {
+                    "aptitude": "50",
+                    "coading": "50",
+                    "english": "50",
+                    "name": "Asantiago",
+                    "logical": "50"
+                  },
+                  {
+                    "logical": "32",
+                    "english": "15",
+                    "aptitude": "24",
+                    "coading": "31",
+                    "name": "Ranvesh"
+                  },
+                  {
+                    "english": "45",
+                    "coading": "45",
+                    "aptitude": "25",
+                    "name": "Rbokar",
+                    "logical": "35"
+                  },
+                  {
+                    "coading": "45",
+                    "aptitude": "25",
+                    "name": "Rganesh",
+                    "english": "45",
+                    "logical": "35"
+                  },
+                  {
+                    "logical": "35",
+                    "name": "Rmeghana",
+                    "coading": "45",
+                    "aptitude": "25",
+                    "english": "45"
+                  },
+                  {
+                    "name": "Rsneha",
+                    "coading": "45",
+                    "english": "45",
+                    "aptitude": "25",
+                    "logical": "35"
+                  },
+                  {
+                    "english": "45",
+                    "aptitude": "25",
+                    "logical": "35",
+                    "coading": "45",
+                    "name": "Rsumanth"
+                  },
+                  {
+                    "name": "Vchiva1",
+                    "coading": "32",
+                    "logical": "12",
+                    "english": "47",
+                    "aptitude": "36"
+                  },
+                  {
+                    "english": "50",
+                    "name": "Vchiva2",
+                    "logical": "15",
+                    "coading": "43",
+                    "aptitude": "34"
+                  },
+                  {
+                    "name": "Vchiva3",
+                    "aptitude": "17",
+                    "logical": "26",
+                    "english": "35",
+                    "coading": "46"
+                  },
+                  {
+                    "name": "Vchiva4",
+                    "english": "38",
+                    "aptitude": "46",
+                    "coading": "37",
+                    "logical": "46"
+                  },
+                  {
+                    "logical": "45",
+                    "english": "35",
+                    "coading": "23",
+                    "aptitude": "34",
+                    "name": "Vchiva5"
+                  },
+                  {
+                    "aptitude": "27",
+                    "english": "27",
+                    "name": "sravi",
+                    "logical": "27",
+                    "coading": "27"
+                  },
+                  {
+                    "english": "27",
+                    "logical": "23",
+                    "aptitude": "23",
+                    "name": "sreema",
+                    "coading": "24"
+                  },
+                  {
+                    "name": "sreemiitha",
+                    "logical": "25",
+                    "aptitude": "24",
+                    "english": "25",
+                    "coading": "27"
+                  },
+                  {
+                    "logical": "23",
+                    "name": "srithika",
+                    "aptitude": "23",
+                    "coading": "27",
+                    "english": "27"
+                  },
+                  {
+                    "name": "srithu",
+                    "logical": "23",
+                    "aptitude": "24",
+                    "english": "27",
+                    "coading": "24"
+                  }
+                ]
+              }
+            },
+            "EEE": {
+              "Section": {
+                "A": [
+                  {
+                    "english": "32",
+                    "aptitude": "14",
+                    "name": "Aakhila",
+                    "coading": "44",
+                    "logical": "41"
+                  },
+                  {
+                    "aptitude": "32",
+                    "logical": "41",
+                    "coading": "42",
+                    "name": "Aamy",
+                    "english": "28"
+                  },
+                  {
+                    "logical": "44",
+                    "coading": "45",
+                    "english": "29",
+                    "name": "Adiaz",
+                    "aptitude": "34"
+                  },
+                  {
+                    "name": "Agina",
+                    "logical": "6",
+                    "english": "12",
+                    "coading": "8",
+                    "aptitude": "25"
+                  },
+                  {
+                    "coading": "41",
+                    "logical": "42",
+                    "english": "29",
+                    "name": "Ajake",
+                    "aptitude": "31"
+                  },
+                  {
+                    "logical": "49",
+                    "coading": "49",
+                    "aptitude": "31",
+                    "english": "45",
+                    "name": "Alenneti"
+                  },
+                  {
+                    "english": "31",
+                    "coading": "44",
+                    "aptitude": "16",
+                    "logical": "45",
+                    "name": "Anikitha"
+                  },
+                  {
+                    "logical": "25",
+                    "name": "Aramond",
+                    "aptitude": "22",
+                    "coading": "12",
+                    "english": "29"
+                  },
+                  {
+                    "english": "29",
+                    "name": "Aroza",
+                    "logical": "22",
+                    "coading": "23",
+                    "aptitude": "21"
+                  },
+                  {
+                    "english": "33",
+                    "aptitude": "15",
+                    "coading": "41",
+                    "name": "Asindhu",
+                    "logical": "44"
+                  },
+                  {
+                    "aptitude": "12",
+                    "name": "Asputnika",
+                    "english": "3",
+                    "logical": "7",
+                    "coading": "4"
+                  },
+                  {
+                    "coading": "14",
+                    "logical": "31",
+                    "aptitude": "24",
+                    "name": "Aviharika",
+                    "english": "32"
+                  },
+                  {
+                    "english": "45",
+                    "coading": "45",
+                    "logical": "38",
+                    "name": "RNagraj",
+                    "aptitude": "29"
+                  },
+                  {
+                    "aptitude": "29",
+                    "english": "45",
+                    "name": "RNikhil",
+                    "logical": "38",
+                    "coading": "45"
+                  },
+                  {
+                    "aptitude": "29",
+                    "english": "45",
+                    "coading": "45",
+                    "logical": "38",
+                    "name": "RNikhila"
+                  },
+                  {
+                    "english": "45",
+                    "aptitude": "29",
+                    "coading": "45",
+                    "name": "RNikhilesh",
+                    "logical": "38"
+                  },
+                  {
+                    "logical": "38",
+                    "english": "46",
+                    "coading": "49",
+                    "aptitude": "29",
+                    "name": "Rakhila"
+                  },
+                  {
+                    "name": "Rvenkat",
+                    "coading": "45",
+                    "aptitude": "29",
+                    "english": "45",
+                    "logical": "38"
+                  },
+                  {
+                    "aptitude": "35",
+                    "name": "Vshreya1",
+                    "logical": "47",
+                    "english": "24",
+                    "coading": "14"
+                  },
+                  {
+                    "aptitude": "3",
+                    "name": "Vshreya2",
+                    "english": "6",
+                    "logical": "4",
+                    "coading": "1"
+                  },
+                  {
+                    "english": "38",
+                    "logical": "48",
+                    "aptitude": "37",
+                    "coading": "16",
+                    "name": "Vshreya3"
+                  },
+                  {
+                    "english": "40",
+                    "coading": "37",
+                    "name": "Vshreya4",
+                    "logical": "50",
+                    "aptitude": "38"
+                  },
+                  {
+                    "english": "32",
+                    "coading": "35",
+                    "name": "Vshreya5",
+                    "aptitude": "24",
+                    "logical": "43"
+                  },
+                  {
+                    "aptitude": "34",
+                    "english": "49",
+                    "coading": "43",
+                    "logical": "22",
+                    "name": "sanfransico"
+                  },
+                  {
+                    "name": "sanusha",
+                    "aptitude": "43",
+                    "coading": "45",
+                    "english": "45",
+                    "logical": "42"
+                  },
+                  {
+                    "aptitude": "42",
+                    "name": "sanuu",
+                    "english": "42",
+                    "coading": "45",
+                    "logical": "41"
+                  },
+                  {
+                    "english": "49",
+                    "aptitude": "41",
+                    "name": "sanuuvi",
+                    "logical": "40",
+                    "coading": "43"
+                  },
+                  {
+                    "coading": "49",
+                    "aptitude": "34",
+                    "english": "49",
+                    "logical": "50",
+                    "name": "spotatoo"
+                  },
+                  {
+                    "english": "45",
+                    "logical": "40",
+                    "aptitude": "40",
+                    "name": "ssanjali",
+                    "coading": "45"
+                  },
+                  {
+                    "logical": "40",
+                    "english": "40",
+                    "name": "ssanjana",
+                    "coading": "45",
+                    "aptitude": "45"
+                  }
+                ],
+                "B": [
+                  {
+                    "coading": "34",
+                    "english": "45",
+                    "aptitude": "23",
+                    "name": "Aspoon",
+                    "logical": "43"
+                  },
+                  {
+                    "aptitude": "33",
+                    "coading": "34",
+                    "english": "45",
+                    "name": "Aviinnu",
+                    "logical": "23"
+                  },
+                  {
+                    "logical": "20",
+                    "aptitude": "33",
+                    "coading": "21",
+                    "english": "11",
+                    "name": "Avinni"
+                  },
+                  {
+                    "coading": "28",
+                    "logical": "21",
+                    "name": "Avinre",
+                    "aptitude": "34",
+                    "english": "23"
+                  },
+                  {
+                    "coading": "42",
+                    "aptitude": "26",
+                    "logical": "32",
+                    "english": "4",
+                    "name": "RTenali"
+                  },
+                  {
+                    "name": "RTenalni",
+                    "logical": "31",
+                    "aptitude": "26",
+                    "english": "48",
+                    "coading": "4"
+                  },
+                  {
+                    "aptitude": "29",
+                    "english": "4",
+                    "name": "Ranvesha",
+                    "logical": "32",
+                    "coading": "41"
+                  },
+                  {
+                    "english": "46",
+                    "aptitude": "29",
+                    "name": "Ranveshi",
+                    "coading": "49",
+                    "logical": "38"
+                  },
+                  {
+                    "name": "Ranveshni",
+                    "coading": "4",
+                    "logical": "31",
+                    "aptitude": "29",
+                    "english": "4"
+                  },
+                  {
+                    "aptitude": "24",
+                    "logical": "42",
+                    "name": "Vsam1",
+                    "english": "37",
+                    "coading": "36"
+                  },
+                  {
+                    "name": "Vsam2",
+                    "coading": "35",
+                    "english": "37",
+                    "aptitude": "25",
+                    "logical": "22"
+                  },
+                  {
+                    "english": "37",
+                    "logical": "24",
+                    "coading": "25",
+                    "aptitude": "23",
+                    "name": "Vsam5"
+                  },
+                  {
+                    "english": "45",
+                    "coading": "34",
+                    "name": "skeerthi",
+                    "aptitude": "41",
+                    "logical": "45"
+                  },
+                  {
+                    "logical": "50",
+                    "name": "sponi",
+                    "coading": "49",
+                    "aptitude": "34",
+                    "english": "49"
+                  },
+                  {
+                    "aptitude": "34",
+                    "name": "spotatoo",
+                    "logical": "50",
+                    "coading": "49",
+                    "english": "49"
+                  },
+                  {
+                    "aptitude": "40",
+                    "english": "45",
+                    "coading": "34",
+                    "name": "spuneeth",
+                    "logical": "44"
+                  },
+                  {
+                    "aptitude": "41",
+                    "coading": "34",
+                    "logical": "40",
+                    "english": "41",
+                    "name": "sswethaa"
+                  },
+                  {
+                    "english": "50",
+                    "name": "sswynk",
+                    "logical": "50",
+                    "coading": "34",
+                    "aptitude": "41"
+                  }
+                ],
+                "C": [
+                  {
+                    "logical": "9",
+                    "aptitude": "4",
+                    "name": "Adorke",
+                    "coading": "1",
+                    "english": "6"
+                  },
+                  {
+                    "name": "Amahesh",
+                    "english": "9",
+                    "logical": "43",
+                    "coading": "5",
+                    "aptitude": "23"
+                  },
+                  {
+                    "aptitude": "50",
+                    "logical": "22",
+                    "coading": "20",
+                    "name": "Anani",
+                    "english": "26"
+                  },
+                  {
+                    "aptitude": "12",
+                    "coading": "34",
+                    "name": "Antr",
+                    "english": "1",
+                    "logical": "32"
+                  },
+                  {
+                    "coading": "50",
+                    "logical": "50",
+                    "english": "50",
+                    "aptitude": "50",
+                    "name": "Aprabhas"
+                  },
+                  {
+                    "logical": "39",
+                    "coading": "45",
+                    "english": "41",
+                    "aptitude": "25",
+                    "name": "Rkarn"
+                  },
+                  {
+                    "aptitude": "27",
+                    "logical": "33",
+                    "english": "48",
+                    "coading": "41",
+                    "name": "Rkarna"
+                  },
+                  {
+                    "logical": "36",
+                    "coading": "43",
+                    "name": "Rkarnan",
+                    "aptitude": "24",
+                    "english": "41"
+                  },
+                  {
+                    "logical": "34",
+                    "coading": "41",
+                    "aptitude": "27",
+                    "name": "Rkarnana",
+                    "english": "49"
+                  },
+                  {
+                    "coading": "42",
+                    "aptitude": "29",
+                    "english": "48",
+                    "name": "Rkarnani",
+                    "logical": "33"
+                  },
+                  {
+                    "english": "42",
+                    "logical": "38",
+                    "coading": "43",
+                    "aptitude": "25",
+                    "name": "Rkatta"
+                  },
+                  {
+                    "logical": "40",
+                    "english": "40",
+                    "name": "Vdean2",
+                    "aptitude": "40",
+                    "coading": "40"
+                  },
+                  {
+                    "aptitude": "30",
+                    "name": "Vdean3",
+                    "logical": "39",
+                    "english": "30",
+                    "coading": "30"
+                  },
+                  {
+                    "name": "Vdean4",
+                    "aptitude": "32",
+                    "coading": "32",
+                    "logical": "36",
+                    "english": "23"
+                  },
+                  {
+                    "name": "Vdean5",
+                    "logical": "45",
+                    "coading": "23",
+                    "english": "45",
+                    "aptitude": "12"
+                  },
+                  {
+                    "name": "Vdeanwhinchester",
+                    "coading": "50",
+                    "logical": "50",
+                    "aptitude": "50",
+                    "english": "50"
+                  },
+                  {
+                    "coading": "37",
+                    "logical": "43",
+                    "aptitude": "34",
+                    "name": "savthi",
+                    "english": "39"
+                  },
+                  {
+                    "name": "sjermyy",
+                    "aptitude": "5",
+                    "english": "5",
+                    "coading": "5",
+                    "logical": "5"
+                  },
+                  {
+                    "logical": "15",
+                    "coading": "50",
+                    "english": "5",
+                    "aptitude": "15",
+                    "name": "sllalith"
+                  },
+                  {
+                    "english": "25",
+                    "aptitude": "27",
+                    "name": "smona",
+                    "logical": "19",
+                    "coading": "9"
+                  },
+                  {
+                    "english": "35",
+                    "aptitude": "41",
+                    "coading": "44",
+                    "logical": "43",
+                    "name": "ssona"
+                  },
+                  {
+                    "english": "50",
+                    "aptitude": "19",
+                    "name": "ssrevathi",
+                    "logical": "15",
+                    "coading": "25"
+                  },
+                  {
+                    "name": "ssrukmimni",
+                    "english": "25",
+                    "aptitude": "28",
+                    "coading": "25",
+                    "logical": "19"
+                  },
+                  {
+                    "logical": "41",
+                    "aptitude": "32",
+                    "english": "37",
+                    "name": "ssruthi",
+                    "coading": "36"
+                  },
+                  {
+                    "aptitude": "30",
+                    "coading": "30",
+                    "logical": "30",
+                    "name": "svineeth",
+                    "english": "30"
+                  }
+                ]
+              }
+            }
+          }
+        }
+      }
+    },
+    "VEC": {
+      "Year": {
+        "Fourth": {
+          "Branch": {
+            "ECE": {
+              "Section": {
+                "A": [
+                  {
+                    "name": "Aceal",
+                    "english": "2",
+                    "logical": "42",
+                    "coading": "4",
+                    "aptitude": "15"
+                  },
+                  {
+                    "logical": "29",
+                    "aptitude": "21",
+                    "coading": "47",
+                    "name": "Acel",
+                    "english": "21"
+                  },
+                  {
+                    "logical": "21",
+                    "coading": "4",
+                    "aptitude": "2",
+                    "english": "25",
+                    "name": "Aceld"
+                  },
+                  {
+                    "name": "Acell",
+                    "coading": "45",
+                    "logical": "21",
+                    "english": "42",
+                    "aptitude": "23"
+                  },
+                  {
+                    "name": "Acre",
+                    "english": "32",
+                    "coading": "50",
+                    "aptitude": "11",
+                    "logical": "4"
+                  },
+                  {
+                    "logical": "33",
+                    "coading": "43",
+                    "name": "Vdora1",
+                    "aptitude": "28",
+                    "english": "34"
+                  },
+                  {
+                    "aptitude": "28",
+                    "name": "Vdora2",
+                    "logical": "26",
+                    "coading": "45",
+                    "english": "34"
+                  },
+                  {
+                    "aptitude": "28",
+                    "english": "34",
+                    "logical": "26",
+                    "coading": "23",
+                    "name": "Vdora3"
+                  },
+                  {
+                    "english": "34",
+                    "logical": "26",
+                    "coading": "23",
+                    "name": "Vdora4",
+                    "aptitude": "23"
+                  },
+                  {
+                    "name": "Vdora5",
+                    "aptitude": "23",
+                    "english": "12",
+                    "logical": "26",
+                    "coading": "23"
+                  },
+                  {
+                    "english": "36",
+                    "coading": "50",
+                    "aptitude": "39",
+                    "name": "se",
+                    "logical": "46"
+                  },
+                  {
+                    "coading": "50",
+                    "name": "sed",
+                    "aptitude": "33",
+                    "english": "36",
+                    "logical": "42"
+                  },
+                  {
+                    "name": "sedc",
+                    "coading": "50",
+                    "logical": "4",
+                    "aptitude": "36",
+                    "english": "36"
+                  },
+                  {
+                    "logical": "4",
+                    "name": "sedcv",
+                    "english": "3",
+                    "aptitude": "3",
+                    "coading": "50"
+                  },
+                  {
+                    "english": "33",
+                    "logical": "45",
+                    "name": "sedcvb",
+                    "coading": "50",
+                    "aptitude": "39"
+                  }
+                ],
+                "B": [
+                  {
+                    "aptitude": "36",
+                    "english": "3",
+                    "name": "Afan",
+                    "coading": "43",
+                    "logical": "12"
+                  },
+                  {
+                    "name": "Afoh",
+                    "coading": "21",
+                    "logical": "29",
+                    "aptitude": "18",
+                    "english": "31"
+                  },
+                  {
+                    "aptitude": "13",
+                    "coading": "50",
+                    "logical": "2",
+                    "english": "31",
+                    "name": "Afol"
+                  },
+                  {
+                    "english": "39",
+                    "logical": "45",
+                    "name": "Afon",
+                    "coading": "4",
+                    "aptitude": "32"
+                  },
+                  {
+                    "english": "3",
+                    "name": "Afor",
+                    "logical": "21",
+                    "coading": "5",
+                    "aptitude": "19"
+                  },
+                  {
+                    "logical": "26",
+                    "name": "Vadhio1",
+                    "aptitude": "45",
+                    "coading": "23",
+                    "english": "12"
+                  },
+                  {
+                    "coading": "23",
+                    "aptitude": "45",
+                    "name": "Vadhio2",
+                    "logical": "26",
+                    "english": "35"
+                  },
+                  {
+                    "english": "35",
+                    "name": "Vadhio3",
+                    "logical": "26",
+                    "aptitude": "34",
+                    "coading": "23"
+                  },
+                  {
+                    "name": "Vadhio4",
+                    "coading": "29",
+                    "logical": "26",
+                    "english": "35",
+                    "aptitude": "34"
+                  },
+                  {
+                    "aptitude": "24",
+                    "logical": "26",
+                    "coading": "29",
+                    "english": "35",
+                    "name": "Vadhio5"
+                  },
+                  {
+                    "coading": "23",
+                    "english": "36",
+                    "name": "sl",
+                    "aptitude": "25",
+                    "logical": "45"
+                  },
+                  {
+                    "name": "sli",
+                    "coading": "23",
+                    "aptitude": "25",
+                    "english": "36",
+                    "logical": "41"
+                  },
+                  {
+                    "coading": "23",
+                    "aptitude": "50",
+                    "name": "slin",
+                    "english": "36",
+                    "logical": "41"
+                  },
+                  {
+                    "coading": "44",
+                    "name": "slinu",
+                    "aptitude": "39",
+                    "english": "36",
+                    "logical": "41"
+                  },
+                  {
+                    "logical": "42",
+                    "coading": "44",
+                    "english": "36",
+                    "name": "slinux",
+                    "aptitude": "38"
+                  }
+                ],
+                "C": [
+                  {
+                    "coading": "8",
+                    "aptitude": "37",
+                    "english": "3",
+                    "name": "Adeff",
+                    "logical": "41"
+                  },
+                  {
+                    "aptitude": "3",
+                    "name": "Adekk",
+                    "english": "37",
+                    "coading": "28",
+                    "logical": "4"
+                  },
+                  {
+                    "logical": "49",
+                    "english": "39",
+                    "name": "Adell",
+                    "aptitude": "39",
+                    "coading": "28"
+                  },
+                  {
+                    "coading": "8",
+                    "aptitude": "3",
+                    "english": "3",
+                    "logical": "9",
+                    "name": "Adem"
+                  },
+                  {
+                    "name": "Aden",
+                    "coading": "9",
+                    "aptitude": "3",
+                    "logical": "7",
+                    "english": "35"
+                  },
+                  {
+                    "aptitude": "37",
+                    "name": "Vjohny1",
+                    "english": "35",
+                    "coading": "29",
+                    "logical": "26"
+                  },
+                  {
+                    "name": "Vjohny2",
+                    "aptitude": "37",
+                    "english": "35",
+                    "coading": "29",
+                    "logical": "26"
+                  },
+                  {
+                    "aptitude": "37",
+                    "logical": "23",
+                    "name": "Vjohny3",
+                    "coading": "22",
+                    "english": "35"
+                  },
+                  {
+                    "english": "34",
+                    "logical": "12",
+                    "name": "Vjohny4",
+                    "aptitude": "37",
+                    "coading": "22"
+                  },
+                  {
+                    "english": "34",
+                    "name": "Vjohny5",
+                    "aptitude": "37",
+                    "coading": "22",
+                    "logical": "44"
+                  },
+                  {
+                    "name": "sneu",
+                    "coading": "45",
+                    "aptitude": "50",
+                    "english": "45",
+                    "logical": "49"
+                  },
+                  {
+                    "coading": "45",
+                    "name": "sneut",
+                    "english": "45",
+                    "logical": "49",
+                    "aptitude": "39"
+                  },
+                  {
+                    "english": "45",
+                    "name": "sneutr",
+                    "coading": "23",
+                    "aptitude": "33",
+                    "logical": "23"
+                  },
+                  {
+                    "name": "sneutro",
+                    "logical": "45",
+                    "coading": "23",
+                    "english": "45",
+                    "aptitude": "50"
+                  },
+                  {
+                    "name": "sneutron",
+                    "aptitude": "50",
+                    "logical": "45",
+                    "english": "50",
+                    "coading": "23"
+                  }
+                ]
+              }
+            },
+            "CSE": {
+              "Section": {
+                "A": [
+                  {
+                    "coading": "31",
+                    "name": "Aked",
+                    "english": "21",
+                    "logical": "19",
+                    "aptitude": "13"
+                  },
+                  {
+                    "aptitude": "11",
+                    "logical": "1",
+                    "english": "2",
+                    "name": "Akeff",
+                    "coading": "3"
+                  },
+                  {
+                    "english": "7",
+                    "aptitude": "9",
+                    "logical": "2",
+                    "name": "Akell",
+                    "coading": "7"
+                  },
+                  {
+                    "english": "11",
+                    "logical": "17",
+                    "aptitude": "12",
+                    "coading": "19",
+                    "name": "Aken"
+                  },
+                  {
+                    "name": "Akett",
+                    "aptitude": "10",
+                    "english": "27",
+                    "coading": "37",
+                    "logical": "21"
+                  },
+                  {
+                    "logical": "12",
+                    "coading": "22",
+                    "aptitude": "24",
+                    "english": "34",
+                    "name": "Vhero1"
+                  },
+                  {
+                    "aptitude": "34",
+                    "name": "Vhero2",
+                    "logical": "34",
+                    "english": "34",
+                    "coading": "22"
+                  },
+                  {
+                    "logical": "13",
+                    "coading": "22",
+                    "name": "Vhero3",
+                    "aptitude": "34",
+                    "english": "34"
+                  },
+                  {
+                    "coading": "35",
+                    "logical": "13",
+                    "aptitude": "34",
+                    "name": "Vhero4",
+                    "english": "34"
+                  },
+                  {
+                    "name": "Vhero5",
+                    "coading": "50",
+                    "logical": "13",
+                    "aptitude": "34",
+                    "english": "34"
+                  },
+                  {
+                    "logical": "38",
+                    "aptitude": "29",
+                    "coading": "49",
+                    "english": "49",
+                    "name": "saava"
+                  },
+                  {
+                    "name": "saavas",
+                    "logical": "38",
+                    "english": "49",
+                    "aptitude": "49",
+                    "coading": "39"
+                  },
+                  {
+                    "name": "saavasy",
+                    "aptitude": "50",
+                    "coading": "39",
+                    "english": "28",
+                    "logical": "38"
+                  },
+                  {
+                    "aptitude": "23",
+                    "english": "28",
+                    "name": "saavasyu",
+                    "logical": "39",
+                    "coading": "29"
+                  }
+                ],
+                "B": [
+                  {
+                    "name": "Vrahul1",
+                    "logical": "13",
+                    "coading": "25",
+                    "aptitude": "14",
+                    "english": "34"
+                  },
+                  {
+                    "coading": "25",
+                    "aptitude": "14",
+                    "name": "Vrahul2",
+                    "logical": "23",
+                    "english": "34"
+                  },
+                  {
+                    "aptitude": "14",
+                    "logical": "23",
+                    "coading": "16",
+                    "english": "34",
+                    "name": "Vrahul3"
+                  },
+                  {
+                    "english": "34",
+                    "name": "Vrahul4",
+                    "coading": "16",
+                    "logical": "23",
+                    "aptitude": "35"
+                  },
+                  {
+                    "logical": "23",
+                    "coading": "45",
+                    "english": "34",
+                    "name": "Vrahul5",
+                    "aptitude": "35"
+                  },
+                  {
+                    "aptitude": "14",
+                    "english": "34",
+                    "logical": "22",
+                    "coading": "34",
+                    "name": "sw"
+                  },
+                  {
+                    "name": "swe",
+                    "aptitude": "44",
+                    "english": "49",
+                    "logical": "33",
+                    "coading": "44"
+                  },
+                  {
+                    "name": "swer",
+                    "english": "49",
+                    "coading": "50",
+                    "aptitude": "44",
+                    "logical": "47"
+                  },
+                  {
+                    "coading": "50",
+                    "name": "swert",
+                    "aptitude": "50",
+                    "english": "49",
+                    "logical": "47"
+                  },
+                  {
+                    "aptitude": "29",
+                    "english": "49",
+                    "coading": "49",
+                    "name": "swerty",
+                    "logical": "27"
+                  }
+                ],
+                "C": [
+                  {
+                    "name": "Vonisha1",
+                    "coading": "34",
+                    "aptitude": "26",
+                    "english": "34",
+                    "logical": "23"
+                  },
+                  {
+                    "name": "Vonisha2",
+                    "english": "34",
+                    "coading": "25",
+                    "aptitude": "26",
+                    "logical": "23"
+                  },
+                  {
+                    "aptitude": "26",
+                    "name": "Vonisha3",
+                    "coading": "25",
+                    "logical": "27",
+                    "english": "34"
+                  },
+                  {
+                    "name": "Vonisha4",
+                    "english": "34",
+                    "coading": "36",
+                    "aptitude": "26",
+                    "logical": "27"
+                  },
+                  {
+                    "logical": "27",
+                    "coading": "36",
+                    "aptitude": "37",
+                    "name": "Vonisha5",
+                    "english": "34"
+                  },
+                  {
+                    "logical": "38",
+                    "name": "ssw",
+                    "aptitude": "31",
+                    "english": "45",
+                    "coading": "48"
+                  },
+                  {
+                    "name": "sswas",
+                    "logical": "38",
+                    "aptitude": "34",
+                    "english": "45",
+                    "coading": "18"
+                  },
+                  {
+                    "coading": "18",
+                    "aptitude": "16",
+                    "logical": "18",
+                    "name": "sswasth",
+                    "english": "12"
+                  },
+                  {
+                    "name": "sswasthik",
+                    "aptitude": "10",
+                    "english": "12",
+                    "logical": "8",
+                    "coading": "9"
+                  }
+                ]
+              }
+            },
+            "EEE": {
+              "Section": {
+                "A": [
+                  {
+                    "name": "Ajam",
+                    "aptitude": "19",
+                    "english": "45",
+                    "logical": "23",
+                    "coading": "29"
+                  },
+                  {
+                    "coading": "31",
+                    "aptitude": "13",
+                    "english": "21",
+                    "name": "Aked",
+                    "logical": "19"
+                  },
+                  {
+                    "coading": "23",
+                    "english": "20",
+                    "aptitude": "13",
+                    "name": "Akef",
+                    "logical": "29"
+                  },
+                  {
+                    "english": "27",
+                    "logical": "23",
+                    "aptitude": "21",
+                    "name": "Akej",
+                    "coading": "47"
+                  },
+                  {
+                    "coading": "32",
+                    "aptitude": "11",
+                    "name": "Akem",
+                    "english": "29",
+                    "logical": "18"
+                  },
+                  {
+                    "aptitude": "12",
+                    "name": "Aken",
+                    "english": "49",
+                    "logical": "45",
+                    "coading": "21"
+                  },
+                  {
+                    "logical": "27",
+                    "coading": "16",
+                    "aptitude": "26",
+                    "english": "34",
+                    "name": "Vsuresh1"
+                  },
+                  {
+                    "name": "Vsuresh2",
+                    "logical": "34",
+                    "coading": "16",
+                    "english": "34",
+                    "aptitude": "26"
+                  },
+                  {
+                    "english": "26",
+                    "logical": "50",
+                    "aptitude": "26",
+                    "coading": "16",
+                    "name": "Vsuresh3"
+                  },
+                  {
+                    "name": "Vsuresh4",
+                    "aptitude": "50",
+                    "english": "26",
+                    "logical": "16",
+                    "coading": "16"
+                  },
+                  {
+                    "logical": "16",
+                    "name": "Vsuresh5",
+                    "aptitude": "50",
+                    "english": "26",
+                    "coading": "50"
+                  },
+                  {
+                    "logical": "49",
+                    "coading": "50",
+                    "aptitude": "34",
+                    "name": "sko",
+                    "english": "49"
+                  },
+                  {
+                    "name": "skou",
+                    "english": "49",
+                    "logical": "49",
+                    "aptitude": "50",
+                    "coading": "43"
+                  },
+                  {
+                    "name": "skous",
+                    "aptitude": "34",
+                    "logical": "49",
+                    "english": "45",
+                    "coading": "43"
+                  },
+                  {
+                    "english": "45",
+                    "logical": "50",
+                    "coading": "44",
+                    "name": "skoush",
+                    "aptitude": "34"
+                  },
+                  {
+                    "name": "skoushik",
+                    "english": "45",
+                    "aptitude": "50",
+                    "logical": "50",
+                    "coading": "50"
+                  }
+                ],
+                "B": [
+                  {
+                    "logical": "32",
+                    "english": "46",
+                    "aptitude": "3",
+                    "name": "Ajab",
+                    "coading": "5"
+                  },
+                  {
+                    "english": "4",
+                    "logical": "23",
+                    "aptitude": "31",
+                    "name": "Ajad",
+                    "coading": "47"
+                  },
+                  {
+                    "english": "4",
+                    "aptitude": "3",
+                    "coading": "9",
+                    "logical": "2",
+                    "name": "Ajak"
+                  },
+                  {
+                    "aptitude": "32",
+                    "english": "46",
+                    "logical": "34",
+                    "coading": "50",
+                    "name": "Ajal"
+                  },
+                  {
+                    "english": "45",
+                    "name": "Ajkk",
+                    "coading": "21",
+                    "aptitude": "12",
+                    "logical": "23"
+                  },
+                  {
+                    "name": "Vramesh1",
+                    "english": "26",
+                    "coading": "36",
+                    "logical": "16",
+                    "aptitude": "26"
+                  },
+                  {
+                    "name": "Vramesh2",
+                    "english": "27",
+                    "coading": "36",
+                    "aptitude": "26",
+                    "logical": "36"
+                  },
+                  {
+                    "name": "Vramesh3",
+                    "english": "27",
+                    "coading": "36",
+                    "aptitude": "26",
+                    "logical": "14"
+                  },
+                  {
+                    "name": "Vramesh4",
+                    "aptitude": "26",
+                    "english": "26",
+                    "logical": "37",
+                    "coading": "36"
+                  },
+                  {
+                    "logical": "39",
+                    "english": "26",
+                    "aptitude": "26",
+                    "name": "Vramesh5",
+                    "coading": "30"
+                  },
+                  {
+                    "coading": "48",
+                    "english": "47",
+                    "name": "sla",
+                    "aptitude": "50",
+                    "logical": "50"
+                  },
+                  {
+                    "english": "47",
+                    "logical": "50",
+                    "name": "slak",
+                    "aptitude": "48",
+                    "coading": "48"
+                  },
+                  {
+                    "coading": "39",
+                    "name": "slaks",
+                    "aptitude": "39",
+                    "english": "47",
+                    "logical": "50"
+                  },
+                  {
+                    "coading": "35",
+                    "aptitude": "34",
+                    "english": "47",
+                    "name": "slakshm",
+                    "logical": "50"
+                  },
+                  {
+                    "english": "49",
+                    "coading": "50",
+                    "name": "slakshmmi",
+                    "aptitude": "50",
+                    "logical": "50"
+                  }
+                ],
+                "C": [
+                  {
+                    "aptitude": "30",
+                    "english": "2",
+                    "name": "Aza",
+                    "coading": "3",
+                    "logical": "3"
+                  },
+                  {
+                    "aptitude": "31",
+                    "name": "Azal",
+                    "logical": "32",
+                    "coading": "39",
+                    "english": "29"
+                  },
+                  {
+                    "name": "Azar",
+                    "logical": "49",
+                    "english": "47",
+                    "aptitude": "13",
+                    "coading": "45"
+                  },
+                  {
+                    "logical": "21",
+                    "name": "Azer",
+                    "english": "20",
+                    "coading": "1",
+                    "aptitude": "30"
+                  },
+                  {
+                    "logical": "20",
+                    "english": "2",
+                    "coading": "12",
+                    "aptitude": "33",
+                    "name": "Azll"
+                  },
+                  {
+                    "english": "26",
+                    "aptitude": "17",
+                    "name": "Vram1",
+                    "coading": "36",
+                    "logical": "35"
+                  },
+                  {
+                    "english": "26",
+                    "logical": "26",
+                    "coading": "36",
+                    "aptitude": "17",
+                    "name": "Vram2"
+                  },
+                  {
+                    "logical": "26",
+                    "coading": "36",
+                    "english": "26",
+                    "name": "Vram3",
+                    "aptitude": "26"
+                  },
+                  {
+                    "name": "Vram4",
+                    "logical": "26",
+                    "english": "26",
+                    "coading": "36",
+                    "aptitude": "45"
+                  },
+                  {
+                    "english": "50",
+                    "logical": "26",
+                    "name": "Vram5",
+                    "aptitude": "45",
+                    "coading": "45"
+                  },
+                  {
+                    "logical": "49",
+                    "english": "29",
+                    "coading": "35",
+                    "name": "schai",
+                    "aptitude": "33"
+                  },
+                  {
+                    "logical": "49",
+                    "aptitude": "50",
+                    "name": "schait",
+                    "coading": "50",
+                    "english": "49"
+                  },
+                  {
+                    "aptitude": "44",
+                    "english": "47",
+                    "logical": "49",
+                    "coading": "48",
+                    "name": "schaitan"
+                  },
+                  {
+                    "coading": "48",
+                    "name": "schaitanya",
+                    "logical": "50",
+                    "english": "47",
+                    "aptitude": "44"
+                  },
+                  {
+                    "english": "29",
+                    "logical": "49",
+                    "aptitude": "50",
+                    "coading": "35",
+                    "name": "schayi"
+                  }
+                ]
+              }
+            }
+          }
+        },
+        "Third": {
+          "Branch": {
+            "ECE": {
+              "Section": {
+                "A": [
+                  {
+                    "aptitude": "22",
+                    "logical": "28",
+                    "coading": "19",
+                    "english": "42",
+                    "name": "Aarbi"
+                  },
+                  {
+                    "english": "43",
+                    "aptitude": "12",
+                    "name": "Aarohi",
+                    "logical": "29",
+                    "coading": "32"
+                  },
+                  {
+                    "english": "48",
+                    "logical": "21",
+                    "aptitude": "3",
+                    "coading": "35",
+                    "name": "Aarun"
+                  },
+                  {
+                    "name": "Ahaa",
+                    "logical": "27",
+                    "coading": "37",
+                    "aptitude": "32",
+                    "english": "41"
+                  },
+                  {
+                    "name": "Avikki",
+                    "coading": "42",
+                    "english": "13",
+                    "logical": "29",
+                    "aptitude": "31"
+                  },
+                  {
+                    "english": "43",
+                    "logical": "49",
+                    "name": "Avillan",
+                    "aptitude": "32",
+                    "coading": "12"
+                  },
+                  {
+                    "aptitude": "24",
+                    "coading": "45",
+                    "logical": "50",
+                    "name": "Vgolu1",
+                    "english": "22"
+                  },
+                  {
+                    "aptitude": "24",
+                    "coading": "23",
+                    "english": "15",
+                    "logical": "34",
+                    "name": "Vgolu2"
+                  },
+                  {
+                    "aptitude": "15",
+                    "coading": "45",
+                    "name": "Vjohn1",
+                    "english": "46",
+                    "logical": "50"
+                  },
+                  {
+                    "english": "46",
+                    "coading": "34",
+                    "name": "Vjohn2",
+                    "aptitude": "34",
+                    "logical": "50"
+                  },
+                  {
+                    "english": "46",
+                    "logical": "22\n",
+                    "name": "Vjohn3",
+                    "coading": "34",
+                    "aptitude": "33"
+                  },
+                  {
+                    "logical": "13",
+                    "coading": "34",
+                    "english": "23",
+                    "name": "Vjohn4",
+                    "aptitude": "33"
+                  },
+                  {
+                    "logical": "34",
+                    "english": "23",
+                    "name": "Vjohn5",
+                    "aptitude": "48",
+                    "coading": "34"
+                  },
+                  {
+                    "english": "31",
+                    "aptitude": "50",
+                    "coading": "50",
+                    "name": "snehnaa",
+                    "logical": "45"
+                  },
+                  {
+                    "english": "31",
+                    "logical": "29",
+                    "name": "snick",
+                    "aptitude": "50",
+                    "coading": "50"
+                  },
+                  {
+                    "coading": "50",
+                    "name": "snija",
+                    "english": "31",
+                    "aptitude": "50",
+                    "logical": "50"
+                  },
+                  {
+                    "coading": "20",
+                    "english": "31",
+                    "logical": "29",
+                    "name": "snirvan",
+                    "aptitude": "33"
+                  },
+                  {
+                    "aptitude": "50",
+                    "coading": "20",
+                    "logical": "29",
+                    "english": "31",
+                    "name": "snirvanaya"
+                  },
+                  {
+                    "coading": "22",
+                    "english": "31",
+                    "aptitude": "33",
+                    "name": "srahulina",
+                    "logical": "22"
+                  },
+                  {
+                    "english": "31",
+                    "name": "sswest",
+                    "logical": "22",
+                    "coading": "21",
+                    "aptitude": "33"
+                  }
+                ],
+                "B": [
+                  {
+                    "logical": "2",
+                    "aptitude": "3",
+                    "coading": "4",
+                    "english": "1",
+                    "name": "Avijju"
+                  },
+                  {
+                    "name": "Avillu",
+                    "english": "10",
+                    "coading": "2",
+                    "logical": "11",
+                    "aptitude": "2"
+                  },
+                  {
+                    "aptitude": "29",
+                    "coading": "19",
+                    "english": "45",
+                    "name": "Avinodh",
+                    "logical": "21"
+                  },
+                  {
+                    "logical": "19",
+                    "coading": "21",
+                    "aptitude": "29",
+                    "name": "Avioha",
+                    "english": "19"
+                  },
+                  {
+                    "aptitude": "21",
+                    "name": "Avirodh",
+                    "logical": "19",
+                    "english": "12",
+                    "coading": "23"
+                  },
+                  {
+                    "logical": "22",
+                    "coading": "34",
+                    "aptitude": "34",
+                    "english": "23",
+                    "name": "Vwick1"
+                  },
+                  {
+                    "coading": "50",
+                    "aptitude": "26",
+                    "name": "Vwick2",
+                    "english": "23",
+                    "logical": "22"
+                  },
+                  {
+                    "aptitude": "21",
+                    "name": "Vwick3",
+                    "logical": "22",
+                    "coading": "34",
+                    "english": "50"
+                  },
+                  {
+                    "aptitude": "24",
+                    "name": "Vwick4",
+                    "english": "45",
+                    "logical": "22",
+                    "coading": "12"
+                  },
+                  {
+                    "coading": "12",
+                    "name": "Vwick5",
+                    "aptitude": "24",
+                    "logical": "27",
+                    "english": "45"
+                  },
+                  {
+                    "aptitude": "50",
+                    "name": "snickyy",
+                    "logical": "34",
+                    "coading": "45",
+                    "english": "31"
+                  },
+                  {
+                    "logical": "34",
+                    "coading": "4",
+                    "english": "31",
+                    "aptitude": "5",
+                    "name": "snil"
+                  },
+                  {
+                    "logical": "34",
+                    "name": "ssnail",
+                    "aptitude": "50",
+                    "english": "31",
+                    "coading": "4"
+                  },
+                  {
+                    "name": "ssnvi",
+                    "logical": "34",
+                    "aptitude": "22",
+                    "coading": "4",
+                    "english": "35"
+                  }
+                ],
+                "C": [
+                  {
+                    "coading": "8",
+                    "logical": "9",
+                    "english": "4",
+                    "name": "Aakula",
+                    "aptitude": "2"
+                  },
+                  {
+                    "english": "49",
+                    "coading": "48",
+                    "name": "Achandramouli",
+                    "logical": "49",
+                    "aptitude": "45"
+                  },
+                  {
+                    "aptitude": "45",
+                    "coading": "46",
+                    "english": "12",
+                    "logical": "32",
+                    "name": "Aiula"
+                  },
+                  {
+                    "name": "Akerala",
+                    "logical": "31",
+                    "english": "17",
+                    "aptitude": "33",
+                    "coading": "27"
+                  },
+                  {
+                    "aptitude": "32",
+                    "coading": "21",
+                    "english": "27",
+                    "logical": "34",
+                    "name": "Amadiksiri"
+                  },
+                  {
+                    "coading": "46",
+                    "aptitude": "49",
+                    "english": "32",
+                    "name": "Auure",
+                    "logical": "12"
+                  },
+                  {
+                    "name": "Vjoe1",
+                    "english": "45",
+                    "logical": "27",
+                    "aptitude": "45",
+                    "coading": "12"
+                  },
+                  {
+                    "aptitude": "45",
+                    "english": "34",
+                    "logical": "26",
+                    "coading": "32",
+                    "name": "Vjoe2"
+                  },
+                  {
+                    "name": "Vjoe3",
+                    "aptitude": "45",
+                    "english": "34",
+                    "logical": "45",
+                    "coading": "34"
+                  },
+                  {
+                    "name": "Vjoe4",
+                    "aptitude": "5",
+                    "coading": "3",
+                    "english": "3",
+                    "logical": "4"
+                  },
+                  {
+                    "english": "33",
+                    "coading": "39",
+                    "aptitude": "5",
+                    "logical": "40",
+                    "name": "Vjoe5"
+                  },
+                  {
+                    "english": "35",
+                    "aptitude": "50",
+                    "name": "srakul",
+                    "logical": "34",
+                    "coading": "41"
+                  },
+                  {
+                    "english": "35",
+                    "name": "srohi",
+                    "aptitude": "23",
+                    "logical": "39",
+                    "coading": "46"
+                  },
+                  {
+                    "logical": "34",
+                    "coading": "46",
+                    "name": "srohit",
+                    "aptitude": "23",
+                    "english": "35"
+                  },
+                  {
+                    "english": "35",
+                    "coading": "46",
+                    "name": "srohna",
+                    "logical": "50",
+                    "aptitude": "23"
+                  },
+                  {
+                    "logical": "33",
+                    "name": "srohny",
+                    "english": "35",
+                    "aptitude": "23",
+                    "coading": "46"
+                  }
+                ]
+              }
+            },
+            "CSE": {
+              "Section": {
+                "A": [
+                  {
+                    "logical": "49",
+                    "aptitude": "41",
+                    "coading": "49",
+                    "english": "12",
+                    "name": "AAllu"
+                  },
+                  {
+                    "english": "42",
+                    "name": "Adillu",
+                    "coading": "32",
+                    "aptitude": "42",
+                    "logical": "21"
+                  },
+                  {
+                    "aptitude": "4",
+                    "logical": "4",
+                    "coading": "2",
+                    "name": "Akallu",
+                    "english": "1"
+                  },
+                  {
+                    "english": "28",
+                    "logical": "12",
+                    "aptitude": "4",
+                    "coading": "19",
+                    "name": "Atill"
+                  },
+                  {
+                    "name": "Atillu",
+                    "english": "21",
+                    "coading": "23",
+                    "logical": "27",
+                    "aptitude": "43"
+                  },
+                  {
+                    "logical": "45",
+                    "english": "31",
+                    "coading": "36",
+                    "aptitude": "23",
+                    "name": "Vsunny1"
+                  },
+                  {
+                    "name": "Vsunny2",
+                    "english": "32",
+                    "logical": "46",
+                    "aptitude": "24",
+                    "coading": "37"
+                  },
+                  {
+                    "aptitude": "25",
+                    "name": "Vsunny3",
+                    "logical": "47",
+                    "english": "33",
+                    "coading": "38"
+                  },
+                  {
+                    "english": "34",
+                    "name": "Vsunny4",
+                    "logical": "48",
+                    "coading": "38",
+                    "aptitude": "26"
+                  },
+                  {
+                    "logical": "42",
+                    "coading": "38",
+                    "name": "Vsunny5",
+                    "english": "37",
+                    "aptitude": "28"
+                  },
+                  {
+                    "name": "seeeuuu",
+                    "english": "35",
+                    "aptitude": "46",
+                    "coading": "50",
+                    "logical": "33"
+                  },
+                  {
+                    "coading": "50",
+                    "english": "35",
+                    "logical": "33",
+                    "aptitude": "50",
+                    "name": "smomuuu"
+                  },
+                  {
+                    "name": "sydney",
+                    "english": "35",
+                    "aptitude": "46",
+                    "coading": "50",
+                    "logical": "50"
+                  }
+                ],
+                "B": [
+                  {
+                    "coading": "45",
+                    "aptitude": "31",
+                    "name": "Ahill",
+                    "english": "35",
+                    "logical": "21"
+                  },
+                  {
+                    "english": "50",
+                    "coading": "50",
+                    "aptitude": "50",
+                    "name": "Akill",
+                    "logical": "50"
+                  },
+                  {
+                    "aptitude": "42",
+                    "coading": "49",
+                    "english": "45",
+                    "name": "Amill",
+                    "logical": "41"
+                  },
+                  {
+                    "english": "47",
+                    "name": "Anill",
+                    "logical": "45",
+                    "aptitude": "43",
+                    "coading": "42"
+                  },
+                  {
+                    "coading": "32",
+                    "english": "23",
+                    "name": "Atill",
+                    "logical": "21",
+                    "aptitude": "45"
+                  },
+                  {
+                    "aptitude": "29",
+                    "name": "Vvinny1",
+                    "english": "30",
+                    "coading": "23",
+                    "logical": "31"
+                  },
+                  {
+                    "aptitude": "29",
+                    "name": "Vvinny2",
+                    "coading": "45",
+                    "english": "30",
+                    "logical": "31"
+                  },
+                  {
+                    "english": "30",
+                    "logical": "35",
+                    "coading": "14",
+                    "name": "Vvinny3",
+                    "aptitude": "29"
+                  },
+                  {
+                    "logical": "23",
+                    "name": "Vvinny4",
+                    "english": "30",
+                    "aptitude": "29",
+                    "coading": "36"
+                  },
+                  {
+                    "name": "Vvinny5",
+                    "english": "30",
+                    "coading": "36",
+                    "aptitude": "33",
+                    "logical": "45"
+                  },
+                  {
+                    "english": "37",
+                    "logical": "44",
+                    "coading": "44",
+                    "name": "sqwe",
+                    "aptitude": "46"
+                  },
+                  {
+                    "name": "sqwer",
+                    "english": "37",
+                    "logical": "22",
+                    "coading": "44",
+                    "aptitude": "41"
+                  },
+                  {
+                    "logical": "22",
+                    "english": "35",
+                    "coading": "43",
+                    "name": "sqwert",
+                    "aptitude": "41"
+                  },
+                  {
+                    "coading": "48",
+                    "logical": "20",
+                    "aptitude": "40",
+                    "english": "35",
+                    "name": "sqwerty"
+                  },
+                  {
+                    "english": "35",
+                    "aptitude": "41",
+                    "logical": "23",
+                    "coading": "48",
+                    "name": "sqwertyu"
+                  }
+                ],
+                "C": [
+                  {
+                    "name": "Aka",
+                    "logical": "2",
+                    "aptitude": "3",
+                    "english": "3",
+                    "coading": "34"
+                  },
+                  {
+                    "aptitude": "32",
+                    "english": "3",
+                    "coading": "9",
+                    "logical": "2",
+                    "name": "Akara"
+                  },
+                  {
+                    "aptitude": "37",
+                    "name": "Akari",
+                    "logical": "22",
+                    "english": "31",
+                    "coading": "34"
+                  },
+                  {
+                    "english": "31",
+                    "name": "Akarl",
+                    "logical": "23",
+                    "coading": "9",
+                    "aptitude": "34"
+                  },
+                  {
+                    "coading": "9",
+                    "aptitude": "3",
+                    "logical": "2",
+                    "name": "Akars",
+                    "english": "3"
+                  },
+                  {
+                    "coading": "34",
+                    "english": "30",
+                    "aptitude": "24",
+                    "name": "Vvijay1",
+                    "logical": "45"
+                  },
+                  {
+                    "name": "Vvijay3",
+                    "coading": "12",
+                    "aptitude": "23",
+                    "logical": "45",
+                    "english": "35"
+                  },
+                  {
+                    "coading": "12",
+                    "name": "Vvijay4",
+                    "aptitude": "2",
+                    "logical": "36",
+                    "english": "35"
+                  },
+                  {
+                    "name": "Vvijay5",
+                    "aptitude": "20",
+                    "coading": "48",
+                    "english": "35",
+                    "logical": "36"
+                  },
+                  {
+                    "aptitude": "29",
+                    "logical": "39",
+                    "name": "sa",
+                    "english": "37",
+                    "coading": "43"
+                  },
+                  {
+                    "coading": "43",
+                    "logical": "39",
+                    "english": "37",
+                    "name": "sas",
+                    "aptitude": "50"
+                  },
+                  {
+                    "coading": "43",
+                    "logical": "39",
+                    "aptitude": "45",
+                    "english": "37",
+                    "name": "sasd"
+                  },
+                  {
+                    "english": "37",
+                    "logical": "39",
+                    "coading": "44",
+                    "name": "sasdf",
+                    "aptitude": "40"
+                  },
+                  {
+                    "english": "37",
+                    "coading": "44",
+                    "aptitude": "42",
+                    "logical": "33",
+                    "name": "sasdfg"
+                  }
+                ]
+              }
+            },
+            "EEE": {
+              "Section": {
+                "A": [
+                  {
+                    "logical": "35",
+                    "coading": "34",
+                    "english": "1",
+                    "aptitude": "45",
+                    "name": "Ade"
+                  },
+                  {
+                    "english": "9",
+                    "coading": "3",
+                    "aptitude": "21",
+                    "name": "Adek",
+                    "logical": "2"
+                  },
+                  {
+                    "coading": "31",
+                    "english": "19",
+                    "logical": "25",
+                    "name": "Adekr",
+                    "aptitude": "25"
+                  },
+                  {
+                    "logical": "21",
+                    "coading": "3",
+                    "aptitude": "23",
+                    "english": "9",
+                    "name": "Adeku"
+                  },
+                  {
+                    "coading": "6",
+                    "name": "Adet",
+                    "logical": "3",
+                    "aptitude": "4",
+                    "english": "19"
+                  },
+                  {
+                    "coading": "36",
+                    "aptitude": "27",
+                    "english": "35",
+                    "name": "Vsravya1",
+                    "logical": "36"
+                  },
+                  {
+                    "coading": "36",
+                    "english": "35",
+                    "logical": "14",
+                    "aptitude": "27",
+                    "name": "Vsravya2"
+                  },
+                  {
+                    "aptitude": "50",
+                    "coading": "36",
+                    "logical": "35",
+                    "name": "Vsravya3",
+                    "english": "35"
+                  },
+                  {
+                    "english": "24",
+                    "logical": "35",
+                    "aptitude": "45",
+                    "name": "Vsravya4",
+                    "coading": "15"
+                  },
+                  {
+                    "aptitude": "16",
+                    "name": "Vsravya5",
+                    "english": "24",
+                    "coading": "15",
+                    "logical": "34"
+                  },
+                  {
+                    "english": "50",
+                    "aptitude": "37",
+                    "name": "sp",
+                    "coading": "44",
+                    "logical": "32"
+                  },
+                  {
+                    "aptitude": "31",
+                    "english": "50",
+                    "coading": "44",
+                    "logical": "32",
+                    "name": "spo"
+                  },
+                  {
+                    "english": "50",
+                    "name": "spoi",
+                    "logical": "3",
+                    "aptitude": "3",
+                    "coading": "4"
+                  },
+                  {
+                    "aptitude": "39",
+                    "name": "spoiu",
+                    "logical": "33",
+                    "english": "50",
+                    "coading": "44"
+                  },
+                  {
+                    "aptitude": "50",
+                    "english": "50",
+                    "logical": "50",
+                    "name": "spoiuy",
+                    "coading": "50"
+                  }
+                ],
+                "B": [
+                  {
+                    "name": "A",
+                    "english": "1",
+                    "aptitude": "12",
+                    "coading": "16",
+                    "logical": "3"
+                  },
+                  {
+                    "coading": "17",
+                    "logical": "32",
+                    "name": "Afor",
+                    "english": "19",
+                    "aptitude": "11"
+                  },
+                  {
+                    "name": "Anum",
+                    "logical": "39",
+                    "aptitude": "7",
+                    "english": "19",
+                    "coading": "16"
+                  },
+                  {
+                    "english": "19",
+                    "coading": "16",
+                    "aptitude": "6",
+                    "name": "Arum",
+                    "logical": "39"
+                  },
+                  {
+                    "english": "11",
+                    "name": "Arun",
+                    "coading": "46",
+                    "logical": "34",
+                    "aptitude": "45"
+                  },
+                  {
+                    "coading": "45",
+                    "aptitude": "23",
+                    "english": "24",
+                    "logical": "25",
+                    "name": "Vanvesh1"
+                  },
+                  {
+                    "english": "24",
+                    "logical": "33",
+                    "aptitude": "23",
+                    "coading": "45",
+                    "name": "Vanvesh2"
+                  },
+                  {
+                    "english": "24",
+                    "name": "Vanvesh3",
+                    "aptitude": "45",
+                    "coading": "25",
+                    "logical": "33"
+                  },
+                  {
+                    "logical": "45",
+                    "coading": "25",
+                    "name": "Vanvesh4",
+                    "aptitude": "45",
+                    "english": "20"
+                  },
+                  {
+                    "aptitude": "35",
+                    "name": "Vanvesh5",
+                    "coading": "25",
+                    "english": "20",
+                    "logical": "33"
+                  },
+                  {
+                    "english": "33",
+                    "coading": "45",
+                    "aptitude": "44",
+                    "logical": "34",
+                    "name": "sd"
+                  },
+                  {
+                    "aptitude": "34",
+                    "coading": "40",
+                    "english": "33",
+                    "name": "sdf",
+                    "logical": "34"
+                  },
+                  {
+                    "name": "sdfg",
+                    "english": "33",
+                    "coading": "40",
+                    "aptitude": "30",
+                    "logical": "39"
+                  },
+                  {
+                    "aptitude": "39",
+                    "english": "33",
+                    "logical": "39",
+                    "coading": "49",
+                    "name": "sdfgh"
+                  },
+                  {
+                    "aptitude": "34",
+                    "name": "sdfghj",
+                    "english": "50",
+                    "logical": "34",
+                    "coading": "45"
+                  }
+                ],
+                "C": [
+                  {
+                    "coading": "9",
+                    "english": "1",
+                    "aptitude": "6",
+                    "name": "Ahef",
+                    "logical": "8"
+                  },
+                  {
+                    "aptitude": "1",
+                    "english": "9",
+                    "name": "Ahes",
+                    "logical": "3",
+                    "coading": "1"
+                  },
+                  {
+                    "logical": "2",
+                    "coading": "9",
+                    "name": "Ahrd",
+                    "aptitude": "4",
+                    "english": "12"
+                  },
+                  {
+                    "english": "3",
+                    "coading": "10",
+                    "aptitude": "41",
+                    "logical": "21",
+                    "name": "Ahre"
+                  },
+                  {
+                    "aptitude": "45",
+                    "english": "34",
+                    "name": "Ahrf",
+                    "coading": "12",
+                    "logical": "23"
+                  },
+                  {
+                    "english": "20",
+                    "coading": "23",
+                    "logical": "33",
+                    "aptitude": "45",
+                    "name": "Vyamu1"
+                  },
+                  {
+                    "name": "Vyamu2",
+                    "coading": "27",
+                    "aptitude": "45",
+                    "english": "20",
+                    "logical": "33"
+                  },
+                  {
+                    "aptitude": "25",
+                    "english": "20",
+                    "logical": "33",
+                    "coading": "27",
+                    "name": "Vyamu3"
+                  },
+                  {
+                    "english": "20",
+                    "name": "Vyamu4",
+                    "coading": "45",
+                    "logical": "33",
+                    "aptitude": "25"
+                  },
+                  {
+                    "coading": "45",
+                    "aptitude": "25",
+                    "english": "34",
+                    "logical": "33",
+                    "name": "Vyamu5"
+                  },
+                  {
+                    "aptitude": "50",
+                    "logical": "35",
+                    "coading": "34",
+                    "english": "33",
+                    "name": "sx"
+                  },
+                  {
+                    "english": "33",
+                    "aptitude": "40",
+                    "name": "sxc",
+                    "logical": "23",
+                    "coading": "34"
+                  },
+                  {
+                    "aptitude": "44",
+                    "name": "sxcv",
+                    "coading": "34",
+                    "logical": "23",
+                    "english": "33"
+                  },
+                  {
+                    "english": "33",
+                    "logical": "37",
+                    "name": "sxcvb",
+                    "coading": "48",
+                    "aptitude": "49"
+                  },
+                  {
+                    "english": "33",
+                    "coading": "48",
+                    "name": "sxcvbn",
+                    "logical": "37",
+                    "aptitude": "42"
+                  }
+                ]
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
